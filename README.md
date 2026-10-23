@@ -47,3 +47,33 @@
 python verify_benchmarks.py
 ```
 自动检查全量 10 个算例的文件完备性、物理量非空与数值自洽性。
+
+---
+
+## English overview
+
+A read-only, ready-to-use collection of **experimental** benchmark cases for rotor
+and propeller aerodynamics (BEMT, free-wake FVW, rVPM, CFD). Only hover (J=0) and
+pure axial flight (J-sweep) are included — no oblique/edgewise flight, no CFD grids
+or CFD-predicted results. Disk loading spans 4–65 kg/m^2 and diameter 0.239–16.36 m.
+
+Layout per case: `geometry/` (chord/twist tables, airfoil point clouds, IGES),
+`experiment/` (thrust, torque/power, FM, flow-field measurements), `documents/`
+(official NASA TM / NACA TN / AIAA PDFs), plus a case README.
+
+Entry points: `BENCHMARK_MATRIX.csv` (all 10 cases), `MANIFEST.csv` (byte counts and
+SHA256), `verify_benchmarks.py` (completeness / physical-consistency self-check),
+`LARGE_FILES.md` (two upstream archives above GitHub's 100 MB limit).
+
+Run the self-check:
+
+```bash
+python verify_benchmarks.py
+```
+
+## License
+
+- Documents and experiment data: original upstream terms (NASA/NACA reports are
+  U.S. government works, public domain; third-party papers retain their own
+  copyright and are redistributed here as citation copies).
+- Scripts (`*.py`): MIT.
