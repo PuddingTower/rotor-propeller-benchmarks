@@ -1,0 +1,18 @@
+# DJI Phantom II Hover Experimental Data
+# Source: Zhou et al. (2020) and Ning (2021)
+#         "Rotor Aeroacoustic Interactions of Multirotor in Hover"
+# Rotor: 2-bladed, D=240 mm (9.4 in), R=0.120 m
+# RPM: 4860, Re_D=6.5e5, Re_c=6.2e4 at 70% span
+# Airfoil: E63 (outboard) -> E856 (inboard)
+# Twist: theta(r) = 5.3 deg + 6.3 deg * R/r
+# CT defined in propeller convention: CT = T/(rho * n^2 * D^4)
+#
+# Experimental results:
+#   Single rotor: CT = 0.1007 +/- 0.008 (std from load cell)
+#   Multirotor (s=0.05D): CT ~0.097 (3-4% thrust drop)
+#   Multirotor (s=0.10D): CT ~0.098 (2-3% thrust drop)
+
+case,CT_exp,CT_std,RPM,notes
+single,0.1007,0.008,4860,isolated rotor hover
+multi_s005,0.097,0.010,4860,side-by-side s=0.05D counter-rotating
+multi_s010,0.098,0.009,4860,side-by-side s=0.10D counter-rotating

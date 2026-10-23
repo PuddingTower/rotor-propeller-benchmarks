@@ -1,0 +1,6 @@
+property,value,unit,description
+D,0.238,m,螺旋桨直径
+R,0.119,m,螺旋桨半径
+B,4,-,4 片叶片
+Rhub,0.038,m,桨毂半径
+pitch_nominal,0.178,m,标称螺距 7 in

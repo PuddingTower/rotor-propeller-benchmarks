@@ -1,0 +1,8 @@
+flight_state,z_over_R,r_over_R,w_induced_over_v0,u_radial_over_v0,Notes
+Hover,0.0,0.0,-1.02,0.0,桨盘中心下洗诱导速度
+Hover,0.0,0.5,-1.15,0.08,桨盘内侧主流区
+Hover,0.0,0.8,-1.28,0.16,高诱导速度区
+Hover,0.0,1.0,-0.65,0.45,桨尖涡剪切边界
+Hover,-0.5,0.5,-1.82,0.02,尾迹收缩后充分发展区
+Vertical_Descent,0.0,0.5,-0.78,0.22,轴向垂直下降态下洗
+Vortex_Ring_State,0.0,0.8,0.15,0.85,涡环态 (VRS) 环流回流破裂区

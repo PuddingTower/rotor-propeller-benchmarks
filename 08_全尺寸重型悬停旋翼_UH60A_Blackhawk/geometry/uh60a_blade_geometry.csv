@@ -1,0 +1,12 @@
+property,value,unit,description
+R,8.18,m,旋翼半径 (26.83 ft)
+D,16.36,m,旋翼直径 (53.66 ft)
+B,4,-,4 片铰接式桨叶
+c_ref,0.527,m,参考弦长 (1.73 ft)
+solidity,0.0826,-,旋翼实度 sigma
+twist,-16.0,deg,非线性负扭转 (0.2R~0.85R 线性，尖部过渡)
+tip_sweep,20.0,deg,外侧 0.93R 开始后掠 20 度
+tip_anhedral,3.0,deg,桨尖下反角 3 度
+airfoil_inboard,SC1095,-,内段主流翼型 (t/c = 9.5%)
+airfoil_mid,SC1094R8,-,中段翼型 (前缘下垂后缘修形)
+airfoil_tip,SC1095,-,尖部超临界薄翼型

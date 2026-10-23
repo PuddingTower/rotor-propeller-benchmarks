@@ -1,0 +1,3 @@
+rotor_id,radius_m,blades,chord_root_m,chord_tip_m,twist_deg,airfoil,solidity,description
+Rotor_1,3.81,2,0.457,0.457,0.0,NACA 0012,0.054,全尺寸平直矩形桨叶 (25ft 直径)
+Rotor_2,3.81,2,0.686,0.229,-7.5,NACA 00XX 尖削,0.054,全尺寸变厚度尖削几何桨叶 (25ft 直径)

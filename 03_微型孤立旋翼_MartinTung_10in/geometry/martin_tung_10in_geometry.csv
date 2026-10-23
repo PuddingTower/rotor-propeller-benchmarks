@@ -1,0 +1,8 @@
+property,value,unit,description
+Rtip,0.127,m,10 in 直径旋翼半径
+Rhub,0.0254,m,桨毂半径
+B,2,-,桨叶片数
+chord,0.0381,m,1.5 in 矩形弦长 (平直无削尖)
+twist,0.0,deg,无扭转 (线性扭转 0 度)
+airfoil,NACA 0012,-,全展向对称翼型 NACA 0012
+solidity,0.191,-,旋翼实度 sigma = B*c/(pi*R)

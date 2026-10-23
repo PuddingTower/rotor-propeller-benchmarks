@@ -1,0 +1,22 @@
+# Alvarez & Ning (2023) §VI.C — Beaver 桨 J=0.8 推力/扭矩系数（Sinnige et al. [112]）
+# ------------------------------------------------------------------------------
+# SOURCE      : Sinnige T. et al., "Unsteady Pylon Loading Caused by Propeller-
+#               Slipstream Impingement for Tip-Mounted Propellers," J. Aircraft 55(4),
+#               2018, DOI 10.2514/1.C034696（TU Delft Green OA 全文）。
+#               补充：Sinnige T. (2018) 学位论文（TU Delft），Fig. 6.1a 性能图。
+# PROP        : 四叶直桨，D=0.237 m，23.9°@75%R；即 FLOWUnsteady `beaver` 桨
+#               （Rtip=0.1185 m、B=4）。
+# CONVENTION  : 螺旋桨口径 CT=T/(ρ n² D⁴)、CP=P/(ρ n³ D⁵)=2πCQ、η=J·CT/CP，
+#               其中 n=V∞/(J·D)、J=V∞/(nD)（Sinnige 2018 正文 Eq. 及符号表）。
+# PROVENANCE  : CT 取自原文正文明确数值（"the thrust coefficient CT equaled 0.095"）。
+#               CQ 由学位论文 Fig. 6.1a 性能图的 CP 曲线（数字化）经 CQ=CP/(2π) 推得：
+#               CP(J=0.8)≈0.1035 → CQ≈0.0165；η=J·CT/CP≈0.73，与原文"η_max≈0.75@J=0.77"
+#               一致。原文正文未直接列出 CQ。
+# UNCERTAINTY : CT σ=0.01（原文数值，含平衡测量重复性）；CQ σ=0.05（图读+换算，间接量）。
+# CONDITION   : J=0.8、V∞=40 m/s、α=0、pylon 影响可忽略（原文称 ±1% 内）。
+# NOTE        : 原文/学位论文给出的直径雷诺数 Re_D≈6.28×10⁵（V∞=40 m/s），与 Alvarez
+#               正文"1.8×10⁶"不符，疑为原文笔误；以原始来源为准。
+# ------------------------------------------------------------------------------
+quantity,value,condition,convention,source,digitized,sigma,notes
+CT,0.0950,J=0.8;Vinf=40m/s;D=0.237m,T/(rho*n^2*D^4),Sinnige2018_J080,false,0.01,原文正文明确数值
+CQ,0.0165,J=0.8;Vinf=40m/s;D=0.237m,Q/(rho*n^2*D^5),Sinnige2018_J080,true,0.05,由学位论文Fig6.1a CP≈0.1035换算CQ=CP/(2pi)；原文未直接给

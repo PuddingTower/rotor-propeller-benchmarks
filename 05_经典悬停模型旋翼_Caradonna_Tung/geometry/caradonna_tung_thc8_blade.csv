@@ -1,0 +1,8 @@
+property,file,description
+chorddist,caradonna_tung_thc8_chorddist.csv, Chord distribution
+pitchdist,caradonna_tung_thc8_pitchdist.csv, Pitch distribution
+sweepdist,caradonna_tung_thc8_sweepdist.csv, LE sweep distribution
+heightdist,caradonna_tung_thc8_heightdist.csv, LE height distribution
+airfoil_files,caradonna_tung_thc8_airfoils.csv, Airfoil distribution
+spl_k,4,  Spline order
+spl_s,1.0e-7, Spline smoothing

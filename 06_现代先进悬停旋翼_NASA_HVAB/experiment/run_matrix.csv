@@ -1,0 +1,19 @@
+configuration,mach_or_rpm,runs,collective_deg,measurements,objective
+standard-natural-transition,1160 rpm,36,"4,6,8,10,12","P,PG",blade deformation
+standard-natural-transition,1250 rpm,"30,36","4,6,8,10,12,13,14","P,PG",blade deformation
+standard-natural-transition,1310 rpm,34,"4,6,8,10,12,14","P,PG",blade deformation
+standard-natural-transition,Mtip 0.600,46,4..15 (1 deg incr),"P,TG",performance and transition
+standard-natural-transition,Mtip 0.650,44,4..15 (1 deg incr),"P,TG",performance and transition
+standard-natural-transition,Mtip 0.675,48,4..14 (1 deg incr),"P,TG",performance and transition
+standard-natural-transition,Mtip 0.600,54,"8,10,12,14","P,TG,SG","performance, transition, wake geometry"
+standard-natural-transition,Mtip 0.650,50,"8,10,12,14","P,TG,SG","performance, transition, wake geometry"
+standard-natural-transition,Mtip 0.675,52,"8,10,12,14","P,TG,SG","performance, transition, wake geometry"
+standard-natural-transition,Mtip 0.650,"92,95","8,10,12,14","P,PIV",performance and PIV
+forced-transition,Mtip 0.600,61,4..15 (1 deg incr),"P,TG",performance and transition - fully tripped
+forced-transition,Mtip 0.650,59,4..15 (1 deg incr),"P,TG",performance and transition - fully tripped
+forced-transition,Mtip 0.675,63,4..14 (1 deg incr),"P,TG",performance and transition - fully tripped
+forced-transition,Mtip 0.600,65,"10,12,14","P,TG",tripped lower surface only
+forced-transition,Mtip 0.650,65,"4,6,8,10,12,14","P,TG",tripped lower surface only
+forced-transition,Mtip 0.675,65,"10,12,14","P,TG",tripped lower surface only
+pressure-blade,Mtip 0.600,72,4..12 (1 deg incr),"P,TG,A",blade airloads
+pressure-blade,Mtip 0.650,77,"4,6,8,10,11,12,13","P,TG,A",blade airloads

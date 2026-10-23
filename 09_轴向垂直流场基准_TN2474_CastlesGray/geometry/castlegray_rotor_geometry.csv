@@ -1,0 +1,7 @@
+property,value,unit,description
+D,1.829,m,6 ft 直径旋翼
+R,0.9144,m,3 ft 半径
+B,2,-,2 片平直刚性桨叶
+chord,0.1524,m,6 in 矩形弦长
+twist,0.0,deg,无扭转
+airfoil,NACA 0015,-,全展向对称厚翼型 NACA 0015

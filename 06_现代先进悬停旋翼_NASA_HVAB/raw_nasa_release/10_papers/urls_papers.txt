@@ -1,0 +1,12 @@
+Fitzgibbon2023_Flow360_HoverDownload.pdf	https://simcloud-public-1.s3.amazonaws.com/publications/Fitzgibbon_et_al_2023_An_Application_of_the_Flow360_Solver_to_the_Hover_Download_Prediction_Problem.pdf
+Sheng_HybridRANSLES_InstalledRotor_ICCFD12.pdf	https://iccfd.org/iccfd12/assets/pdf/papers/ICCFD12_Paper_11-B-02.pdf
+Mali2022_HVAB_Hover_Fluent_Thesis.pdf	https://repository.gatech.edu/server/api/core/bitstreams/ea83d724-5ed7-42c5-b63b-eab0b4c486eb/content
+Overmeyer2020_HVAB_Blade_Set.pdf	https://ntrs.nasa.gov/api/citations/20205002153/downloads/NASA-TM-2020-5002153.pdf
+NASA2023_HVAB_Photogrammetry_TM.pdf	https://ntrs.nasa.gov/api/citations/20230009506/downloads/HVAB_PG_TM_FINAL-9506.pdf
+NASA2025_HVAB_C81_TM.pdf	https://ntrs.nasa.gov/api/citations/20250006213/downloads/NASA_TM_HVAB%20C81%20Deck%20Generation_FINAL.pdf
+Norman2023_HVAB_Test_Measurements_VFS.pdf	https://rotorcraft.arc.nasa.gov/Publications/files/79-2023-1166-Norman.pdf
+NASA2024_HVAB_GeneralInfo_Readme.pdf	https://rotorcraft.arc.nasa.gov/HVAB/HVABReleasedData_v2/General_Information/HVAB_General_Information_Readme_v2.pdf
+NASA2024_HVAB_DataUse_Recommendations.pdf	https://rotorcraft.arc.nasa.gov/HVAB/HVABReleasedData_v2/General_Information/Data_Use_Recommendations_v2.pdf
+HPW2024_Sessions_Abstracts.pdf	https://www.aiaa-hpw.org/_files/ugd/1cfe95_2c82cd6ec73c4487bb0dfbedd15b8a55.pdf
+HPW2021_Sessions_Abstracts.pdf	https://www.aiaa-hpw.org/_files/ugd/1cfe95_ca9837aab2bf4f0783b9076fac3f367d.pdf
+HPW2025_Sessions_Abstracts.pdf	https://www.aiaa-hpw.org/_files/ugd/d7f0a8_a7dd5e96c5e94710bef67acc9b18fcc7.pdf

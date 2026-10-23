@@ -1,0 +1,6421 @@
+
+
+===== PAGE 1 =====
+00 
+CO 
+en 
+(J1 
+NATIONAL ADVISORY COMMITTEE 
+FOR AERONAUTICS 
+TECHNICAL NOTE 2474 
+EMPIRICAL RELATION BETWEEN INDUCED VELOCITY, THRUST, 
+AND RATE OF DESCENT OF A HELICOPTER ROTOR AS 
+DETERMINED BY WIND-TUNNEL TESTS 
+ON FOUR MODEL ROTORS 
+By Walter Castles, Jr. and Robin B. Gray 
+Georgia Institute of Technology 
+Washington 
+October 1951 
+A ·.c 
+• in 
+1 
+
+
+===== PAGE 2 =====
+
+
+===== PAGE 3 =====
+1 
+• 
+• 
+TECH LIBRARY KAFB, NM 
+NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS 
+111111111111 111111111111111111111111111111111 
+TECHNICAL NOTE 2474 
+EMPIRICAL RELATION BETWEEN INDUCED VELOCITY, THRUST, 
+AND RATE OF DESCENT OF A HELICOPTER ROTOR AS 
+DETERMINED BY WIND- TUNNEL TESTS 
+ON FOUR MODEL ROTORS 
+By Walter Castles, Jr. and Robin B. Gray 
+SUMMARY 
+00 6 55 52 
+The empirical relation between the induced velocity, thrust, and 
+rate of vertical descent of a helicopter rotor .was calculated from wi nd-
+tunnel force tests on four model rotors by the application of blade-
+element theory to the measured values of the thrust, torque, blade angle, 
+and equivalent free- stream rate of descent . 
+. 
+The model tests covered the useful range of CT jOe 
+(where 
+CT is 
+the thrust coefficient and 0e' 
+the effective solidi ty ) and the range 
+of vertical descent from hovering to descent velocities slightly greater 
+than those for autorotation. 
+The three bladed models, each of which had an ef fective solidity 
+of 0.05 and NACA 0015 blade airfoil sections, were as follows: 
+(1) Constant- chord, untwisted blades of 3- foot radius 
+(2) Untwisted blades of 3- foot radius having a 3/1 taper 
+(3) Constant- chord blades of 3- foot radius having a linear 
+twist of 120 (washout) from axis of rotation to tip 
+(4) Constant- chord, untwisted blades of 2- foot radius . 
+Because of the incorporation of a correction for blade dynamic 
+twist and the use of a method of measuring the approximate equivalent 
+free-stream velOCity, it is believed that the data obtained from this 
+program are more applicable to free- flight calculations than the data 
+from previous model tests . 
+The results of the tests are presented in the form of graphs of 
+the nondimensional induced velocity Ai against the nondimensional 
+
+
+===== PAGE 4 =====
+2 
+NACA TN 2474 
+rate of vertical descent AZ' 
+rather than in the usual form of 
+Glauert's curve of llf against l/F 
+(where 
+f 
+is the thrust coef-
+ficient based on descent velocity and F, 
+the thrust coefficient based 
+on the resultant velocity at the rotor) as it is believed that the 
+former form more clearly expresses the physical significance of the 
+results . 
+In order to determine the approximate rotor flow patterns , the 
+longitudinal cross section of the wind- tunnel jet was tufted on vertical 
+wires, and a photograph of the tufts was obtained at each test point . 
+Also, eight smoke filaments were injected along a radial line 9 inches 
+above the rotor plane and photographed along with the jet tufts for a 
+complete run at CT = o .. 004 
+on the small rotor . 
+The following general observations may be made from these tests : 
+(1) The mean nondimensional induced velocities calculated from the 
+present test data are considerably less for hovering and the smaller 
+rates of descent and considerably larger for the higher rates of descent 
+than those given by Glauert's curve of llf against l/F . 
+The nondimen-
+sional induced velocities obtained in the present tests are in good 
+agreement with the values obtained from full- scale data at the hovering 
+and autorotation ends of the vertical-descent range but are higher than 
+the full- scale values reported by St ewart at the larger rates of power-
+on descent. 
+(2) The present tests indicate that the primary effect of a 
+3/1 blade taper is to reduce slightly the values of the nondimensional 
+induced velocity at hovering and the small rates of descent and to 
+increase the rate of descent for "ideal" autorotation, that rate of 
+descent at which the induced and descent velocities are equal, by 
+approximately 3 percent as compared with a rotor having constant-chord, 
+untwisted blades . 
+(3) Linear blade twist of 120 also slightly reduced the value of 
+the nondimensional induced velocity' at hovering in comparison with the 
+value obtained on the rotor with the constant- chord, untwisted blades. 
+The twist increased the "ideal" rate of descent for autorotation by 
+approximately 10 percent . 
+Also the peak value of the nondimensional 
+induced velocity was increased by approximately 24 percent over that 
+for the rotor with constant- chord, untwisted blades, and the peak 
+occurred at a rate of descent that was about 17 percent higher . 
+The fluctuations in the forces and moments on the rotor with the 
+twisted blades were very much larger at the higher rates of power- on 
+descent than those for the rotors with tapered or constant- chord, 
+untwisted blades . 
+-~~~ 
+~-~ -
+- --- --
+7
+-' 
+J
+
+
+===== PAGE 5 =====
+NACA TN 2474 
+3 
+(4) Within the range and accuracy of the present tests there were 
+no significant differences in the values of Ai 
+at given values of Az 
+that could be attributed to the variations in the test thrust coef-
+ficient, rotor angular velocity, or rotor diameter. 
+INTRODUCTION 
+Contemporary vortex or momentum theory does not yield a useful 
+answer for the mean induced velocity of a helicopter rotor in vertical 
+descent because of the limited and indefinite extent of the rotor wake. 
+Thus the relation between the mean induced velocity, thrust, and rate 
+of vertical descent must, at present, be determined experimentally. 
+Both wind-tunnel and flight tests, the only readily available 
+experimental methods of determining the empirical induced-velocity 
+relation for vertical descent, offer certain difficulties. It is not 
+easy to maintain the desired zero horizontal component of velocity on 
+flight tests or to measure the rate of descent with sufficient accuracy. 
+Also, existing helicopters tend to suffer a loss of control at the 
+larger ~ates of power-on descent and thus it is hard to obtain steady-
+state flight data in this range. 
+Wind-tunnel model rotor tests, on the 
+other hand, present certain .problems in determining the equivalent 
+free-stream descent velocities corresponding to the test conditions and 
+also in measuring or deducing the operating rotor blade angles. 
+Recent flight-test data have been in serious disagreement with the 
+only previous wind-tunnel test data, and Glauert's empirical induced-
+velocity relation, l/f against l/F, 
+based on the results of this 
+test. This disagreement has cast certain doubts on the usefulness of 
+wind-tunnel model rotor tests in general. 
+The present test program was undertaken in an effort to check 
+Glauert's curve of l/f against l/F over the useful range of vertical 
+descent and, if possible, to find the sources of discrepancy between 
+the model and free-flight results . 
+It was also desired to evaluate the 
+principal effects of blade taper and twist on the vertical-descent 
+characteristics and to obtain a sequence of smoke filament and tuft 
+photographs to show the approximate flow patterns. 
+A reexamination of the test methods and the procedure used to 
+reduce the data for Glauert's curve of l/f against l/F indicated 
+that the probable sour·ces of error in the results were due to the· use 
+of a wind tunnel having a closed test section and an energy ratio 
+considerably greater than unity, the determination of the equivalent 
+free-stream descent velocity from a pressure tap in the tunnel wall, 
+and the neglect of the dynamic twist of the blades. 
+The present tests 
+
+
+===== PAGE 6 =====
+4 
+NACA TN 2474 
+covering the useful range of CT/oe 
+and vertical descent on the afore-
+mentioned four rotors were designed to eliminate, insofar as possible, 
+the above errors . 
+This work was conducted at the Georgia Institute of Technology 
+under the sponsorship and with the financial assistance of the National 
+Advisory Committee for Aeronautics . 
+SYMBOLS 
+a 
+blade- element lift- curve slope 
+A 
+rotor- disk area 
+b 
+number of blades in rotor 
+c 
+blade- element chord 
+Cd 
+blade - el~ment profi le drag coefficient 
+o 
+ce 
+equivalent blade chord 
+cl 
+blade- element lift coefficient 
+Co 
+extended blade root chord 
+increment in torque coefficient over that for zero thrust 
+and zero rate of descent 
+
+
+===== PAGE 7 =====
+NACA TN 2474 
+f 
+F 
+Q 
+r 
+R 
+t 
+T 
+V 
+V. 
+1 
+X 
+a r 
+°0 , °1 , °2 
+e 
+5 
+thrust coefficient based on descent velocity (T/2pnV2R2); 
+usually found in differential form ( 
+1 
+dT) 
+J..j.pnV2r dr 
+thrust coefficient 
+( 2pn (Vi T:,: V)2R2 
+rotor torque 
+based on resultant velocity at rotor 
+1 
+dT) 
+or .4pn(Vi:t v)2r dr 
+radius of blade element 
+rotor radius 
+effective radius (R - ~ tip chord) 
+taper factor 
+-1) 
+rotor thrust 
+descent velocity 
+induced velocity at rotor, measured with respect to 
+fixed coordinates 
+nondimensional radius of blade element 
+(r/R) 
+blade- element angle of attack 
+coefficients in power series expressing cd 
+as function 
+o 
+of 
+ar , 
+where 
+cdo = °0 + alar + 02ar2 
+blade-element pitch angle , measured between zero- lift 
+chord line and tip- path plane 
+extended blade root pitch angle 
+extended linear twist from axis of rotati on to blade tip, 
+positive when tip angle is the larger 
+
+
+===== PAGE 8 =====
+c
+. __ 
+-----~_-
+6 
+"A -1 
+p 
+nondimensional induced velocity 
+nondimensional descent velocity 
+mass density of air 
+0 e 
+effective solidity 
+(bce / nR) 
+NACA TN 2474 
+(~~ 
+or 
+(_ 
+V 
+or 
+V ) 
+\nR ~ ~ CT 
+VT /2pA 
+0 0 
+solidity of extended blade root chord 
+(bco /nR) 
+°1 
+solidity factor (~ t C dr) 
+nR2 
+0 
+°2 
+solidity factor (~:3 foR cr 0 
+°3 
+solidity factor 
+(~:4 t 
+cr2 d, 
+°4 
+solidity factor r-f cr3 
+d~ 
+nR) 
+0 
+Os 
+solidity factor (~f cr4 d~ 
+nR6 0 
+¢ 
+inflow angle at blade element, positive below rotor plane 
+n 
+angular velocity of rotor 
+• 
+
+
+===== PAGE 9 =====
+NACA TN 2474 
+7 
+DESCRIPTION OF APPARATUS 
+Wind tunnel .- The wind tunnel, in the open jet of which these 
+tests were conducted, is of conventional closed- return type having a 
+S-to-l contraction in the collector . 
+The open jet is circular, of 
+9-foot diameter, and 10 feet long . 
+There is a flat wind- tunnel balance 
+cover just below the bottom boundary of the open jet . 
+The rotors were 
+installed so that the rotor hub was in the transverse and longitudinal 
+center line of the open jet. 
+For the present tests an 18- by 18- mesh wake- diffusion screen was 
+installed 21 feet downstream of the rotor plane. 
+This screen reduced 
+the tunnel energy ratio to approximately 0.7 . 
+In addition, a precision 
+electric tachometer was installed on the wind- tunnel motor and gear 
+driven to read 10 times wind- tunnel propeller shaft speed. 
+This 
+permitted the wind- tunnel propeller speed to be read to il/2 ' revolution 
+per minute . 
+Rotor test stand.- The rotor test stand is a self- contained unit 
+which mounts in a load member support socket of the normal wind-tunnel 
+balance as shown in figure 1 . 
+The power is furnished by a three-phase, 
+lS-horsepower, 17S0-revolution- per- minute, wound rotor induction motor. 
+The motor shaft is coupled to the pinion in the gear box contained in 
+the 6- inch- pipe tee by a vertical drive shaft. 
+The pinion drives, at 
+half motor speed, a ring gear to which the differential pl anetary 
+carrier is attached as shown in figure 2. 
+The rear shaft from the miter 
+gear set in the differential carrier is restrained from rotating by the 
+torque-measuring strain- gage arm. 
+The front shaft from the Triter gear 
+set drives the separately supported rotor hub through a ball- bearing 
+slip and universal joint in the center of the rotor . 
+This ball-bearing 
+slip and universal joint can transmit no thrust nor steady moments to 
+the hub other than the driving torque . 
+The hub is supported and rotates on t wo ball bear ings mounted in 
+a three-arm strain- gage spider, the outer ends of the arms of which are 
+ball-bearing mounted on the test stand . 
+This strain- gage spider, which 
+is entirely within the hub, carries and measures only the thrust force 
+on the rotor and hub . 
+Inside the front of the hub there is a pitch-
+change motor which screws the outer hub fairing back and forth and 
+through ball- bearing connections changes the pitch of the rotor blades. 
+Extending from the front of this hub fairing is a r evolution counter 
+driven by the pitch-change motor shaft. 
+A unit change on this counter, 
+which was r ead during the tests by means of a str oboscope unit and field 
+glasses, corresponds to a rotor- blade- angle change of 0 .0410 to 0.0430 
+over the range of blade angles covered in these tests . 
+
+
+===== PAGE 10 =====
+8 
+NACA TN 2474 
+The gear box was made of the dry sump type with all units mounted 
+on ball bearings and the gears lubricated by jets of low- viscosity oil 
+furnished by an external oil pump in order to keep the tare torque low 
+and constant. 
+The thrust and torque strain gages were read by means of SR- 4 bridges 
+arranged in temperature compensating circuits. 
+The thrust could be read 
+to approximately ±0 .05 pound . 
+The torque on the heavier arm used with 
+the 6-foot- diameter rotors could be read to approximately ±0 .004 foot-
+pound and on the lighter arm used with the 4- foot-diameter rotor, to 
+approximately ~0.002 foot-pound . 
+The rotor speed was measured by means of a neon flash lamp actuated 
+by a set of breaker points on the motor shaft. 
+This flash lamp illumi-
+nated once each rotor revolution a suitably lined disk driven by a small 
+synchronous motor . 
+The rotor speed was continuously manually controlled 
+by means of a three- phase lye barrel rheostat in the motor armature 
+circuit in such a manner that the image of the lined disk on the synchro-
+nous motor shaft remained approximately stationary . 
+Assuming that power 
+line frequency was constant, the error in rotor speed was probably not 
+over ±2 revolutions per minute . 
+In order to be certain that the desired 
+image harmonic was the one being controlled, the rotor- drive- motor speed 
+was also read on an electric tachometer . 
+The tunnel-off tare thrust was not measurable. 
+The tare torque 
+at 1600 revolutions per minute, including windage on the hub and blade 
+sockets , was 0.18 foot- pound and constant after the gears had been run 
+Ln . 
+In addition, there was a torque loss of approximately 3 percent 
+~hrough the differential miter gear set . 
+The torque loss in the ring 
+lnd pinion was not reflected in the torque- arm strain-gage reading . 
+Model rotor blades.- The model rotor blades, each set of which had 
+an effective solidity of 0.05 and NACA 0015 airfoil sections, were of 
+the "rigid" type with no initial coning angle . 
+To keep torsional 
+deflections to a minimum the blades were designed so that the chordwise 
+locations of the centers of gravity, elastic axes, and aerodynamic 
+centers of the blade elements coincided, approximately, and lay on the 
+quarter- chord pitch- change axis . 
+The large centrifugal loads ar lslng from the full- scale design tip 
+speed and the above- mentioned torsional considerations necessitated 
+building the blades with a solid alloy steel leading edge extending 
+back to approximately the quarter- chord point. 
+The constant- chord, untwisted blades were constructed with a hollow 
+magnesium trailing-edge section riveted to the steel leading edge as 
+shown in figure 3. 
+The twisted set of blades and the tapered blades were 
+r 
+
+
+===== PAGE 11 =====
+.2 
+NACA TN 2474 
+constructed with solid laminated mahogany trailing- edge sections 
+fastened to the steel leading edge with machine screws. 
+The blades 
+were hand-worked to contour, and the final finish obtai ned, while not 
+aerodynamically smooth, had no significant imperfections. 
+9 
+The diameter of the hub fairing was ~ inches. 
+The blades were of 
+true contour from a radius of 6 .09 inches out , and the blade tips were 
+finished off square . 
+Rotor static balance was obtained by ring balance 
+weights held in position around the hub blade sockets by set screws. 
+TEST PROCEDURE 
+After the installation of the rotor test stand with hub, but with-
+out blades , and the tunnel wake-diffusion screen, the speed of the wind-
+tunnel propeller and tunnel piezometer reading were calibrated against 
+the tunnel jet velocity as measured by a standard pitot tube and micro-
+manometer . 
+Vertical and horizontal jet- center-line velocity surveys 
+were taken in the plane of rotation . 
+It was found that the jet velocity 
+distribution was satisfactory except for a local region directly ahead 
+of the 5-inch- diameter-rotor test- stand support located 18 inches down-
+stream from the plane of rotation. 
+Within this local region the veloci-
+ties were 3~ percent below the average . 
+The procedur e for a typical run was as follows: 
+After sufficient 
+warm-up time for the lubricating oil oressure to stabilize , tare thrust 
+and torque readings were obtained on the hub without blades at various 
+rotor speeds and wi nd- tunnel velocities. 
+The hub was then dismounted, 
+a set of blades installed, and the rotor balanced . 
+The blade angle at 
+the three- quarter - radius point on each blade was then set with a 
+precision inclinometer to within approximately ±2 nunutes of equal angles 
+of about 60 by adjusting the clamps on the blade- pitch- change arms . 
+The hub was then reinstalled and the previous calibration of the thrust 
+strain system was checked by wire, pulley, and weights . 
+The rotor was then brought up tc test speed (1200 or 1600 rpm) and, 
+after another warm- up period, a r eading was taken of the reference blade 
+angle (counter reading) and torque for zero thrust. 
+The accuracy with 
+which the zero- thrust blade angle could be determined was not too satis-
+factory, as explained below . 
+The blade angle was then set by t rial and error at the value glvlng 
+the desired thrust coefficient as indicated by the thrust strain-gage 
+setup, and a reading was taken of the torque and blade angle . 
+In 
+
+
+===== PAGE 12 =====
+10 
+NACA TN 2474 
+addition, a photograph was taken of the tufts in the tunnel jet, and a 
+reading was taken of the tunnel velocity indicated by the tunnel 
+piezometer. 
+The tunnel fan was then started and the above procedure and 
+readings were repeated for each successive increment in tunnel velocity 
+that could be obtained from the taps on the wind-tunnel-motor-armature 
+rheostat . 
+In addition, a reading of the wind- tunnel propeller speed 
+was made for each of these points. 
+The run was terminated at that 
+velocity increment at which the measured torque reached a zero or nega-
+tive value or, on the small rotor, at a rate of descent known to be in 
+the windmill brake state . 
+After a descent run at each desired value of 
+CT 
+was obtained on 
+a given rotor, the tunnel was completely blocked by placing a layer of 
+paper over the wake- diffusion screen . 
+A hovering test run, reading 
+thrust and torque against blade angle, was then made as a check on the 
+hovering points obtained in the vertical-descent runs. 
+At the larger rates of power- on descent the thrust and torque 
+fluctuated in an irregular manner . 
+An attempt was made in each such 
+case to read the average values . 
+A chordwise bending fatigue failure occurred on one of the twisted 
+blades while operating at 
+CT = 0 .004 at 1600 revolutions per minute 
+and a large rate of power- on descent. 
+Thus the hovering check run was 
+not obtained on these blades. 
+As previously mentioned, a certain difficulty was experienced in 
+obtaining the reference blade angle for zero thrust. 
+Each of the 
+following available methods appeared likely to introduce certain errors: 
+1. Assuming the thrust was zero when the calibrated blade angle 
+at the three- quarter-radius point was zero (for untwisted 
+blades) 
+2. Assuming the calibrated zero point of the thrust strain- gage 
+setup was the same with the rotor stationary and rotating 
+3. Assuming the thrust was zero when the tufts on the wires in 
+the vicinity of the rotor were undisturbed (for un~wisted 
+blades) 
+In the first case, inaccuracies in the construction of the blades 
+and subsequent warpage due to operating stresses were likely to intro-
+duce appreciable error. 
+In the second case, the accuracy is uncertain 
+because of the impossibility of checking the zero- thrust calibration 
+
+
+===== PAGE 13 =====
+r 
+NACA TN 2474 
+point on the rotating rotor with the blades installed . 
+Although the 
+calibration factor on the thrust strain- gage spider remained constant 
+during the period of the tests , there were many small zero shifts . 
+Because of the low slope of the hovering values of 
+CT 
+against e 
+near the zero -thrust point, the small zero shifts in the thrust could 
+have been translated into appreciable changes in the zero- thrust blade 
+angle. 
+In the third case, induced velocities of the order of ±2 feet 
+per second or less, equivalent to a zero- thrust blade- angle shift of 
+approximately ±0 .6o on the 2- foot- radius rotor at 1200 revolutions 
+per minute, could not be detected by the tufts . 
+In general, method two was assumed to give the correct result 
+unless shown to be obviously in error by method one or three . 
+REDUCTION OF DATA 
+11 
+In order to present the final data in useful form, i t was necessary 
+to determine the operating blade angle at the three- quarter- radius point 
+on the rotating rotors. 
+As previously mentioned, the blades had a 
+symmetrical airfoil section and were designed so that the blade- element 
+elastic axes and aerodynamic centers were very nearly coincident. 
+Also, 
+the calculated chordwise deflections of the blades under the applied 
+torques were very small . 
+Therefore, t he t heoretical twist due to the 
+air forces acting on the blades should have been negligible and it was 
+thus assumed that the only torque acting to twist the blades was that 
+arising from the inclination of the principal axis of inertia of the 
+blade sections to the plane of rotation. 
+The resulting dynamic torque was calculated as a function of the 
+blade angle and rotor angular velocity for several stations along a 
+blade for each of the rotors . 
+The spring constants of each blade were 
+then measured experimentally (at three stations on the tapered blades), 
+and the spring constants were averaged for the blades in any given 
+rotor. 
+The dynamic twist between the hub and the thr ee- quarter- radius 
+point was then calculated using the calculated dynamic- torque- loading 
+curve and the experimentally determined spring-constant curve. 
+Over 
+the range of blade angles of these tests the dynamic twist was very 
+nearly a linear function of the blade angle, and the oper ati ng blade 
+angle at the three- quarter radius eO. 75R for the various rotors was 
+given with sufficient accuracy by the expressions: 
+0 . 8208root at 1600 revolutions per minute 
+0.8908root at 1200 revolutions per minute 
+------
+---~--------
+
+
+===== PAGE 14 =====
+12 
+NACA TN 2474 
+for the 6- foot- diameter rotor with constant- chord, untwisted blades, 
+80 . 75R 
+0. 9638root at 1600 revolutions per minute 
+80 . 75R = 0. 9788root at 1200 revolutions per minute 
+for the 4- foot-diameter rotor with constant- chord, untwisted blades, 
+80 . 75R 
+0 . 9408root at 1600 revolutions per minute 
+80. 75R = 0. 9658root at 1200 revolutions per minute 
+for the rotor with untwisted tapered, blades, and 
+eO. 75R = 0. 936 (er oot - 7.79) at 1600 revolutions per minute 
+80 . 75R = 0 . 964(8r oot -
+7. 79) at 1200 revolutions per minute 
+for the rotor with twisted constant- chord blades . 
+The deflections of 
+the pitch- change linkage were negligible. 
+The operating blade angle at the three- quarter-radius point WaS 
+thus found by subtracting the blade pitch- counter reading for zero 
+thrust and zero rate of descent from the blade pitch- counter reading 
+for the test point in question, r eading the equivalent blade root angle 
+from the calibr ation curve, and converting this root angle to the value 
+at the three- quarter- radius point by means of the aporopriate equation 
+above . 
+As a result of the dynamic twist, the actual twist of the r otating 
+blade was slightly different for each test point . 
+However, all com-
+parisons have been made on the basis of the initial static blade twist. 
+The equivalent free-stream descent velocity was obtained from the 
+calibration curve of wind-tunnel jet velocity against wind-tunnel 
+pr opeller speed, as explained i n the section "Analysis and Discussion ." 
+In the absence of any applicable theory for, or useful measure-
+ments of, the radial distribution of the induced velocity for the 
+flight range covered in these tests, it was necessary to make the 
+assumption that the induced velocity was uniform over the rotor in 
+order to obtain the values of 
+Ai 
+against AZ 
+or l/f against l/F 
+f r om the test data . 
+
+
+===== PAGE 15 =====
+NACA TN 2474 
+13 
+As a result of this necessary supposition it followed from the 
+assumed geometry that it was a good approximation to take the inflow 
+angle ¢ as a small angle and consider all blade elements as unstalled. 
+Thus the thrust could be written as 
+T 122 
+"2 pbd2 r C z dr 
+(1) 
+and the torque, as 
+(2 ) 
+Then, for a linear twist where the blade angle e at nondimensional 
+radius x = r/R was given by the expression 
+and for an arbitrary plan form denot ed by the solidity factors 
+l r
+R 
+cr dr 
+nR3 Jo 
+(3) 
+(4) 
+(5 ) 
+(6) 
+and so forth , the equation used to calculate Ai 
+from the test values 
+of the thrust coefficient, blade angle , and rate of descent reduced to 
+
+
+===== PAGE 16 =====
+NACA TN 2474 
+where 
+Ao 
+l 
+v 
+Nondimensional velocity of descent 
+Nondimensional induced velocity 
+and a is the two- dimensional lift.-curve slope corrected for the 
+Reynolds number and Mach number a: t he three- quarter-radius point. 
+Similarly, upon writing the variation of the profile drag coef-
+ficient 
+~cd 
+for the symmetrical airfoils as 
+o 
+(8 ) 
+(10) 
+where 
+ar 
+is the blade- element angle of attack, the solution of the 
+torque equation for Ai 
+gave 
+\.0 
+l 
+62(9 02°4 + 912°5 + 290 91°5) - 2~CQ 
+o2 62 - a) 
+(11) 
+where 
+~CQ is the value of CQ for the test point minus the value at 
+zero thrust and zero rate of descent (i.e., minus the value due to 
+minimum profile drag coefficient) . 
+J
+
+
+===== PAGE 17 =====
+, 
+NACA TN 2474 
+The Reynolds numbers and Mach numbers at the three-quarter-radius 
+points and the corresponding estimated values of the lift- curve slope 
+used to calculate the values of Ai 
+are given for each run in tables I 
+to VIII. 
+A value of 
+62 = 1.25 was used to reduce the data, as 
+explained in the section "Analysis and Discussion." 
+The values of l/f and l/F for the comparison were obtained 
+from the conversion formulas 
+and 
+1 
+F 
+1 
+A 2 
+f 
+z 
+(12 ) 
+(13 ) 
+It is to be noted that the radical of equation (11) may go imaginary 
+if, through experimental errors, the measured torque coefficient 
+dCQ 
+is too large for the measured extended blade root angle 
+80 , 
+This was 
+the case for those test -points listed in the tables where the value of 
+dCQ is given but the value of Ai (torque) is missing . 
+RESULTS 
+The results of the force tests on each rotor are presented in the 
+form of graphs of 
+80. 7$R 
+and 
+dCQ against V/DR for constant values 
+of CT/ae 
+and as graphs of the equivalent values of Ai 
+against Az . 
+The experimental values for the individual test points are given in 
+tables I to VIII . ~. 
+Figures 4, 5, 6, and 7 show the values of eO. 75R against V/DR 
+at constant CT/ae for the 6- foot- diameter rotors having constant-chord, 
+untwisted blades; tapered blades; and twisted blades; and for the 4-foot-
+diameter rotor with constant- chord, untwisted blades, respectively. 
+Figures 8, 9, 10, and 11, respectively, show the variation of 
+dCQ 
+with 
+V/DR at constant CT/ae for the four rotors. 
+Figures 12, 13, 14, and 
+15 show the variation of Ai with Az 
+as calculated for the four rotors 
+from the previous test points . 
+Figures 16 and 17 show the comparison on Ai 
+against Az 
+and l/f 
+against l/F coordinates of the experimental values obtained from the 
+
+
+===== PAGE 18 =====
+16 
+NACA TN 2474 
+data on the 6- foot- diameter rotor having constant- chord, untwisted 
+blades with the values from Glauert ' s empirical curve of l/f against 
+l/F from reference 1; the full- scale values of references 2 to 4; and 
+the values given by the simple momentum theory . 
+Sketches of the flow patterns deduced f r om the photographs of the 
+tufts and smoke streamers are shown for values of the nondimensional 
+descent velocity AZ 
+of 0, 0. 3, 1 . 0, 1 . 35, 1 . 7, and 2.0, respectively, 
+in figures 18 to 23. 
+Figure 24 shows one of the original smoke photo-
+graphs taken at AZ 
+0.3 . 
+The comparison of the theoretical and experimental hovering values 
+of 
+CT against 
+80 . 75R with the values from the end points of the 
+vertical- descent tests are given in figures 25 to 27 . 
+Figures 28 to 30 
+show the si milar comparison for the values of 
+~CQ against 
+CT ' 
+ANALYSIS AND DISCUSSION 
+Simple momentum c·onsiderations .- Consider the case of an actuator 
+disk of area A exerting a thrust T and descending at a velocity V 
+in a perfect fluid . 
+For this hypothetical case there is no apparent 
+reason why a' normal wake should not exist with a flow pattern of the 
+type shown in figure 31 . 
+Consequently, it would appear that the simple 
+momentum theory could be used to determine the relation between T, 
+V, 
+and the induced velocity with respect to fixed coordinates 
+Vi ' 
+Upon 
+applying the usual momentum and energy relations it is found that 
+Vi 
+V 
++ ~¥ + 
+T 
+(14) 
+2 
+2pA 
+and, since 
+AZ 
+V 
+~ 2:A 
+and 
+V· 
+A. 
+l --
+l 
+~ 2~A 
+-~- -~ -
+-
+-
+j 
+
+
+===== PAGE 19 =====
+3 
+NACA TN 2474 
+i t follows that 
+The values of Ai 
+expected to constitute 
+on an actual rotor for 
+flow through the plane 
+direction. 
+17 
+(15) 
+given by the above equation might reasonably be 
+a lower limit on the values that can be obtained 
+those vertical- descent conditions wher e the air 
+of rotation is predominantly in a downward 
+Formation of a "vortex ring" type flow pattern.- Consider, as a 
+second approximation, the case of the actuator disk in a slightly viscous 
+fluid. 
+For the hovering flight condition, the principal effect of the 
+fluid viscosity on the wake is to cause the entrapment of air along the 
+periphery of the wak ~ . 
+As a result, the air within the wake is slowed 
+down, and the diameter of a given section of the stream tube enclosing 
+the wake increases with time and dist ance from the rotor plane. 
+An 
+analysis of the similar phenomena associated with the expansion of a 
+free jet is given in reference 5. 
+From the standpoint of elementary vortex theory, the actuator- disk 
+wake can be considered to be composed of a close succession of vortex 
+rings of very small strength. 
+The effect of fluid viscosity upon a 
+vortex filament of one of these rings is to cause a continual increase 
+in core diameter with time. 
+Consequently, after a certain i ncrement of 
+time, t he strength of the circulation of a filament measured at any given 
+radius from the axis of the vortex will clecrease with time, as explained 
+in reference 6. 
+As the i mpulse of each vortex ring in the wake tends to 
+remain constant, this implies an increase in ring diameter with time or 
+distance from the rotor and a decrease in velocity of the corresponding 
+point of the wake and the velocity of progression of the rings. 
+Thus, 
+if the actuator disk is slowly allowed to descend fr om the hovering con-
+dition, the downward velocity of the axes of the wake vortex rings will, 
+at some distance below the rotor plane, be less than the descent velocity 
+of the disk and the vortex sheet enclosing the wake will be folded back 
+upon itself as shown schematically in figure 32 . 
+When the fol ded-back 
+sheet has passed above the rotor plane the induced veloci ties are in 
+such a direction as to cause it to contract and roll up into the "vortex 
+ring" type flow pattern observed at small rates of de scent. 
+For steady- state descent, the strength of the "bound vortex ring" 
+formed by the rolling up of the wake vortex sheet cannot increase with 
+time . 
+Therefore , the vorticity continually shed from the rotor and 
+entering t,he "bound vortex ring" must leave at the same rate as it enter s . 
+Turbulent air exchange between the flow in the ring and the surrounding 
+free- st ream flow appears to be the balancing factor . 
+
+
+===== PAGE 20 =====
+18 
+NAOA TN 2474 
+At the small rates of descent the scale of the turbulence, that 
+is, toe volume of the individual masses of air torn from the "bound 
+vortex ring," appears to be small. 
+As the steady-state rate of descent 
+is increased, the scale of the turbulence grows until, at the higher 
+rates of power- on descent, the turbulence becomes severe enough to cause 
+fluctuations in the rotor forces and moments. 
+Determination of equivalent free-stream velocity.- Upon investigation 
+it appeared that the open-jet method of testing should duplicate the 
+free-stream flow patterns in the vicinity of the rotor with sufficient 
+accuracy but that the measured wind-tunnel velocity would be a poor 
+indication of the equivalent free-stream velocity. 
+For example, at the 
+hovering end points of the tests where the model rotor wake was directed 
+back into the entrance cone of the tunnel, the net tunnel flow corre-
+sponding to the free- flight hovering condition would obviously be some 
+small flow in a reversed direction and not a net wind- tunnel flow equal 
+to the zero value of the free-stream rate of descent. 
+For the hovering 
+condition the correct tunnel flow would appear to be that which would 
+occur through the equivalent circle of the tunnel exit cone "above" the 
+rotor in free flight . 
+The magnitude of this flow is not very amenable 
+to calculation. 
+However, it may be noted that this is the quantity of 
+air that would be induced to flow through the wind tunnel by the static-
+pressure field about the model rotor if the energy ratio of each stream 
+tube passing through the rotor and traversing the circuit of the tunnel 
+were unity, that is, if all the kinetic energy of the fluid in the stream 
+tubes leaving the rotor were dissipated in traversing the circuit of the 
+wind tunnel. 
+A similar situation occurs for the vertical-descent test 
+points except that , for these conditions, there is at present no way of 
+calculating the velocity correction from existing vortex theory. 
+In the search for some method of obtaining the equivalent free-
+stream descent velocities from measurable test data, the following method 
+of directly measuring the approximate equivalent free-stream velocity 
+was found and used to reduce the data obtained from the present tests. 
+The method may perhaps be best explained by an analogy. 
+An open- jet, closed- return wind tunnel with an energy ratio of 
+unity is equivalent aerodynamically to a frictionless open-return tunnel 
+of the type shown in figure 33 . 
+For this hypothetical tunnel and, con-
+sequently, by analogy, the open- jet, closed-return tunnel having an 
+energy ratio of unity, the total head in a stream tube entering the jet 
+is equal to the atmospheric pressure plus the pressure r ise through the 
+plane of the wind- tunnel fan. 
+This is true for the hypothetical open-
+return tunnel regardless of the changes in tunnel velocity or tunnel 
+velocity distribution caused by the model rotor thrust. Therefore, if, 
+as it seems reasonable to believe, the free-stream static- pressure field 
+about the model is approximately duplicated by the open-jet method of 
+--~~---------- ----
+
+
+===== PAGE 21 =====
+NACA TN 2474 
+19 
+testing, the velocity distribution about the model in the open jet will 
+be very nearly the same as that of the model in the free stream when 
+the pressure rise through the plane of the wind-tunnel fan is equal to 
+the free- stream velocity head . 
+This can be demonstrated for the case 
+of the hypothetical open-return tunnel by writing Bernoulli's equation 
+along an entering stream tube . 
+The analogy between the hypothetical frictionless open-return tunnel 
+and the actual closed-return tunnel having an energy r atio of unity is 
+only exact when the pressure drop along each stream tube traversing a 
+circuit of the tunnel is equal to the velocity head of that stream tube 
+as it leaves the tunnel jet. 
+Obviously this requirement can only be 
+satisfied for the particular case where the velocity distribution of 
+the air leaving the tunnel jet is uniform. 
+For the stream tubes origi-
+nating in the wake of a hovering rotor or a rotor at a very small rate 
+of descent, the diffusion of the rotor wake within the tunnel results 
+in an energy ratio for these stream tubes that is higher than that for 
+the tunnel as a whole. 
+However, the net tunnel flow is in a reverse 
+direction for hovering and for the very small rates of descent at which 
+a jet-type wake exists , and, consequently, the tunnel energy ratio is 
+lower than it is for the higher rates of descent where the flow is in 
+the normal direction. This tends to compensate for the diffusion of the 
+wake in the tunnel. 
+As a compromise, the tunnel energy ratio was reduced for the present 
+tests to a value of approximately 0.7 by the installation of an 18- by 
+18-mesh screen, as previously noted. 
+It was impractical to measure directly the pressure rise through 
+the plane of the wind-tunnel propeller on account of the very small 
+pressure differences involved . 
+Therefore, a calibration was obtained 
+of the wind- tunnel jet velocity against wind-tunnel propeller speed for 
+zero model rotor thrust. 
+Then, making the approximation that the pres-
+sure rise through the plane of the wind- tunnel propeller was unchanged 
+by any change in wind-tunnel velocity due to model rotor thrust, the 
+equivalent free-stream velocity at the measured wind-tunnel propeller 
+speed for a given test point could be obtained from this calibration 
+curve. 
+On the present tests with the very l ow tunnel energy ratio the wind-
+tunnel propeller- blade- element inflow angles wer e small compared with 
+the blade- element angles of attack . 
+Thus the approximation that the 
+pressure rise through the plane of the wind-tunnel propeller was inde-
+pendent of the changes in the wind-tunnel velocity caused by the model 
+rotor thrust did not introduce any large errors . 
+As a check on the hovering data obtained from the end points of the 
+vertical-descent tests, additional hovering runs were made with the 
+
+
+===== PAGE 22 =====
+20 
+NACA TN 2474 
+tunnel blocked at the wake-diffusion screen. 
+This screen was almost 
+the circuit of the tunnel "below11 the rotor. 
+Thus the virtual ground 
+plane was at some distance greater than the edge of the tunnel exit 
+cone, five- sixths of a rotor diameter, llbelow11 the rotor, and the 
+ground effect was very small though probably measurable in view of the 
+too perfect agreement with the simple independence of blade- element 
+theory. 
+The agreement between the values of the hovering blade angles and 
+torque coefficients obtained from the end points of the vertical-descent 
+tests with those obtained from the hovering runs with the tunnel blocked 
+would indicate that the method used to obtain the equivalent free-stream 
+velocity was approximately correct in the low velocity range. 
+The good argeement between the nondimensional rate of descent for 
+"ideaP autorotation obtained from the tests on the 6-foot- diameter 
+model rotor with the constant-chord, untwisted blades and the full-scale, 
+free-flight data of references 2 and 3 would indicate that the method 
+was also useful for the larger descent velocities. 
+Discussion of discrepancies between present data and those of 
+reference 7. - The test data of reference 7, used to determine the "vortex 
+ringl1 portion of Glauert 1s curve of l/f against l/F, 
+were obtained 
+on a 3-foot-diameter, two-bladed, solid-brass model of 2~ inch chord in 
+~ 7- by 7-foot square, closed-jet, indraft tunnel. 
+The model blade 
+angles were adjustable, but not controllable, and runs were obtained at 
+various set angles up to 6 .60 from estimated zero lift. The reference 
+tunnel velocity was obtained from a static-pressure wall tap located 
+8 feet ahead of the plane of the test r otor . 
+The values of l/F calculated from the test data in reference 7 
+are all too high in the vicinity of hovering because of the use of the 
+statically set blade angle without any correction for dynamic twist. 
+For example, the calculated dynamic twist at the three-quarter-radius 
+point and 1500 revolutions per minute on the model of reference 7 is of 
+the order of 14 percent of the set root blade angle. 
+If this were to 
+be taken into account the value of l/F for hovering would be reduced 
+from 2 to approximately 1.S. 
+The remaining difference between the 
+residual value of 1 . S and full-scale flight-test values of the order of 
+1.1 corresponds to a difference in blade angle of only 1/20 which may 
+have been partially in the assumed blade angle for zero thrust and 
+partially attributable to an increase in induced velocity due to the 
+proximity of the closed jet walls. 
+The tunnel velocity as measured by the static-pressure wall tap was 
+used in reference 7 as the descent or ascent velocity of the rotor. 
+As 
+
+
+===== PAGE 23 =====
+NACA TN 2474 
+21 
+the tunnel velocity contains an increment of the induced velocity of 
+the rotor, it is higher than the equivalent free-stream velocity in the 
+vertical-ascent range and lower than the equivalent free-stream velocity 
+in vertical-descent range. 
+Thus, it could be reasoned that the values 
+of l/f given by Glauert's curve are too high in the vertical-ascent 
+range and too low in the vertical-descent range if they were plotted at 
+the correct values of l/F. 
+The loop in the original data of refer-
+ence 7 at the hovering point would appear to be due to the change in 
+sign of the corrections that would have had to be applied to the 
+measured tunnel velocity in order to obtain the equivalent free-stream 
+velocity. 
+Calculation of full-scale blade angle and torque coefficient for 
+given thrust coefficient and rate of descent from experimental curves 
+of Ai 
+against Az .- The customary. assumption of the independence of 
+blade elements in calculating the thrust and torque of a helicopter 
+rotor in the vertical-descent regime from the experimentally derived 
+values of l/f against l/F or Ai 
+against 
+Az anpears to be of 
+doubtful validity to the present authors for two reasons: 
+First, the 
+relations were necessarily calculated from the experimental data on the 
+basis of an assumed uniform normal component of velocity over the rotor 
+disk, and it would seem that the same assumption should be used for 
+inverse computations. 
+Second, that part of the induced flow due to 
+the vortex distribution in the wake will be considerably changed by the 
+large-scale turbulent mixing of the wake air at the higher rates of 
+power-on descent. 
+In other words, the vortex filaments shed from a 
+blade at a given radius probably do not remain at the proportional wake 
+radius long enough for the approximation of the independence of blade 
+elements to be applicable. 
+Thus, making the same assumptions and approximations that were used 
+to calculate the values of Ai 
+from the experimental data, namely, that 
+the induced velocity is uniform, the blades are everywhere unstalled, 
+the inflow angle ¢ can be considered a small angle , and the tip loss 
+can be neglected, it follows for blades of given plan form denoted by 
+the solidity factors 
+b lR 
+---
+c dr 
+nR2 
+0 
+bl
+R 
+---
+cr dr 
+nR3 ' 0 
+J
+
+
+===== PAGE 24 =====
+22 
+NACA TN 2474 
+and so forth and having a linear twist where the blade angle e at 
+nondimensional radius x is given by the expression 8 = 80 + 81x, 
+that the extended root. blade angle 
+80 
+is 
+(16) 
+and the torque coefficient is given by the expression 
+'roe value of 
+Ao 
+1 
+(17) 
+to be used in the above equations is that for the 
+approximate blade taper and twist taken 
+polation of the curves of Ai 
+against 
+from the appropriate inter-
+AZ at 
+AZ = v/nR~ CT' 
+The 
+lift-curve slope 
+profile drag 
+cd 
+o 
+a 
+and the coefficients in the equation for the 
+°0 + 0lar + 02ar2, 
+are determined for the blade 
+airfoil at the approximate Reynolds number, 
+roughness at the three- quarter-radius point 
+Mach number, and surface 
+on the blades . 
+At the higher rates of power- on descent, a certain reduction in 
+the values of Ai 
+obtained from model tests would appear to be in 
+order for full-scale application as previ ously noted . 
+However, the 
+considerably lower peak values of Ai 
+obtained from the flight tests 
+
+
+===== PAGE 25 =====
+NACA TN 2474 
+23 
+of reference 2, as shown in figure 16, may have been largely due to the 
+inability, through loss of control, to maintain the desired flight con-
+dition long enough for the equilibrium flow to develop. 
+Thus, .the 
+magnitude of the correction to be applied is, at present, uncertain and 
+the conservative procedure would be to use the uncorrected model data. 
+The integrated equations for the hovering values of 
+the assumption of the independence of blade elements have 
+previously published for the case of rotors having linear 
+twist and thus have been included in an appendix. 
+CT based on 
+not been 
+taper and 
+Flow patterns.- The recirculation of the air in the "vortex ring" 
+state made it difficult to obtain satisfactory smoke flow pictures. 
+If the smoke streamers were made dense enough to photograph well, the 
+smoke that accumulated in the flow pattern tended to "haze" the picture. 
+If the density of the smoke streamers was reduced, the high turbulence 
+quickly dissipated them. 
+Thus, it was necessary to compromise on a 
+smoke denSity that showed relatively short lengths of the flow 
+streamlines. 
+If the tuft studies were to be repeated, it would be desirable to 
+string the wires to which the tufts are attached in a horizontal plane 
+and to take the photographs in a vertical plane. 
+The inclination of 
+the tufts due to gravity could thus be eliminated and the tuft photo-
+graphs would give a better indication of the flow directions and 
+velocities. 
+CONCLUDING REMARKS 
+The mean nondimensional induced velocities calculated from the 
+present test data are considerably less for hovering and very small 
+rates of descent and considerably larger for the higher rates of descent 
+than those given by Glauert's curve of l/f against l/F 
+(where 
+f 
+is the thrust coefficient based on descent velocity and F, 
+the thrust 
+coefficient based on the resultant velocity at the rotor). 
+The major 
+portion of the disagreement can be accounted for and is due to the fact 
+that previously no correction was made for dynamic blade twist and the 
+measured tunnel velocity was taken as the free- stream velocity. 
+The present data are in good agreement with full-scale flight-test 
+results at the hovering and autorotation ends of the descent range, but 
+the peak values of the nondimensional induced velocity obtained at the 
+large rates of Dower-on descent are higher than those obtained from the 
+full-scale flight tests reported by Stewart. 
+A part of this discrepancy 
+at the large rates of power-on descent is attributable to the lower 
+
+
+===== PAGE 26 =====
+24 
+NACA TN 2474 
+maximum lift coefficient of the model rotor blades, as explained in the 
+discussion. 
+A large part of the remainder may arise from the difficulty, 
+due to loss of control, of maintaining steady-state flight in this 
+region with contemporary helicopters for a long enough period of time 
+for the equilibrium flow to be established. 
+The primary effects of the 3/1 blade taper were to decrease slightly 
+the mean induced velocity at hovering and the small rates of descent 
+and to increase the "ideal" rate of descent for autorotation by approxi-
+mately 3 percent over that for the rotor with constant-chord, untwisted 
+blades oper ating at the same thrust· coefficient . 
+Linear twist of 120 increased the "ideal" nondimensional rate of 
+descent for autorotation by about 10 percent compared with the value 
+for "the rotor with the constant- chord, untwisted blades. 
+The peak value 
+of the mean nondimensional induced velocity was increased approxi-
+mately 24 percent and it occurred at a nondimensional rate of descent 
+that was about 17 percent higher than that for the rotor with the 
+constant-chord, untwisted blades. 
+Also, the fluctuations in the forces 
+and moments on the rotor with the twisted blades were very much larger 
+at the higher rates of power- on descent than for the rotors with the 
+tapered or constant-chord, untwisted blades. 
+As in the case of the 
+tapered blades, the mean induced velocity of the rotor with the twisted 
+blades was slightly less, at hovering, than that for the rotor with the 
+constant-chord, untwisted blades . 
+There were no observable fluctuations in forces or moments on any 
+of the rotors in the autorotation range. 
+Within the range and accuracy of these tests there were no signi-
+ficant differences in the curves of nondimensional induced velocity, 
+Ai 
+against the nondimensional descent velocity Az 
+due to variations 
+in the thrust coefficient, rotor speed, or rotor diameter . 
+The present data should be more applicable to full-scale, free-
+flight calculations than the data from previous model rotor, vertical-
+descent tests on account of the inclusion of a correction for the 
+dynamic blade twist and the more exact method used to determine the 
+equivalent free- stream descent velocity. 
+Georgia Institute of Technology 
+Atlanta, Ga . , May 31, 1950 
+• 
+L~ 
+
+
+===== PAGE 27 =====
+4 
+NACA TN 2474 
+APPENDIX 
+I NTEGRATED THRUST EQUATIONS FOR HOVERING ROTORS WITH 
+LINEARLY TAPERED AND/OR TWISTED BLADES 
+25 
+Assuming independence of blade elements and neglecting the rotation 
+of the slipstream, it follows from the moment um theory that the thrust 
+dT 
+at radius 
+r 
+can be expressed as 
+(Al) 
+Also, upon making the approximation that the inflow angle ¢ is a small 
+angle, blade- element analysis gives 
+(A2) 
+Thus, for rotors having blades with a linear t aper where the chord c 
+at nondimensional radius x 
+can be denoted in terms of the extended 
+blade root chord 
+Co 
+and the taper factor t 
+by the expression 
+the inflow angle ¢ is 
+¢ 
+- v. 
+~ 
+Or 
+(A3 ) 
+(A4) 
+bco 
+0 0 = nR' 
+the solidity of the extended blade root chord. 
+How-
+ever, from the geometry 
+(A5) 
+or, for rotors having blades with a linear twist where the blade angle 
+at nondimensional radius x 
+can be expressed in terms of the extended 
+blade root pitch angle 
+80 
+and the twist 
+81 
+as 
+8 = 80 + 81x 
+(A6) 
+8 
+
+
+===== PAGE 28 =====
+26 
+NACA TN 2474 
+i t f ollows t hat 
+Cz 
+(A?) 
+a 
+This expression can, for convenience, be factored, giving 
+1 + 
+(AS) 
+where 
+(A9 ) 
+(A10) 
+Setting up the expression for the thr ust coefficient where 
+(All) 
+and substituting th~ previous value of 
+c l 
+given by equation (A7) yields 
+(A12 ) 
+
+
+===== PAGE 29 =====
+r 
+NACA TN 2474 
+Integrating the first three terms of equation (A12) and expanding the 
+factor 
+(1 + tx)3/2 in the fourth term by means of the binomial 
+theorem give 
+Integrating the expansion gives 
+27 
+I + II + III + IV + V 
+(A14) 
+where 
+III = t 2 [---L(A) - --1-(290 + t) (II) - _3_(I)l 
+(A17) 
+Baal 
+Baal 
+t 
+4091 J 
+IV = t 3r 
+~(A) + _1_( 2ao + tillI) + _1_ I~ 
+(AlB) 
+Ll 9291 
+1691 
+\ t 2 
+96@1 tJ 
+V = t 4 [-
+3 
+(A) - --.2L( 29 
++ t) (IV) __ l_(IlI)~ 
+(A19) 
+179291 
+224@1 
+0 
+t 3 
+S6@l t2 ~ 
+A = (29 0 + 291 + t + 1)3/2 
+(A20) 
+
+
+===== PAGE 30 =====
+28 
+and, for the case of interest where 
+@l is negative , 
+(2@o + t)2 - 8@1 
+16el~- 2 @1 
+NACA TN 2474 
+(A21) 
+It is to be noted that the angles in the above equation are in the first 
+or fourth quadrant depending upon whether the arc sine is positive or 
+negative . 
+The maximum error introduced in the value of CT because the 
+sixth and higher terms of the binomial expansion were dropped is l ess 
+than 1/2 percent for the extreme case wher e 
+81 = - 0 .2 radian and 
+t 
+= - 2/3 . 
+For 
+@l = 0 the latter terms of equati on (A14) become imaginary. 
+Thus for tapered but untwisted blades it is necessary to set 
+91 = 0 
+before i ntegrating . 
+Then for tapered but untwisted blades 
+e (1 + 1) + 1 + ~ t + ! t 2 + I 
++ II 
+03423 
+4 
+1 
+1 
+(A22) 
+where 
+1 
+(A) + 
+1 
++ (@o + t) 
+(A23) 
+3t (2@0 + t) 1 
+3t (2@0 + t) 
+t ( 2@0 + t) (Bl) 
+1 
+t) (Al) -
+5(80 + t ) 
+1 
+t )(Bl) 
+(A24) 
+4(2@0 + t) (11) 
++ 
+4 (290 + 
+4(290 + 
+) 
+
+
+===== PAGE 31 =====
+, 
+NACA TN 2474 
+29 
+(A25) 
+and 
+1 
+[t (2@ +t ) + @0+tlft(290 +t)+ 
+2t(290 + t ) 
+0 
+J L 
+2 (@+t) +lJ l / 2 _ 
+Qo + t 
++ 
+o 
+2t(2@o + t) 
+(A26) 
+For t = 0, 
+the latter terms of equati on (A22) go imaginary . 
+Thus , 
+for constant-chord, untwisted blades it i s necessary t o set 
+t = 0 
+before integr ating . 
+Then for constant- chord, untwisted blades 
+Q 
+(1 
+390) (1 + 2@0) 3/2 - 1 
+o + 1 + 
+_ 
+~ 2 
+~--~~-
+15-@~2-=------
+o 
+(A27) 
+The nor mal pr ocedur e, in using t he pr evious equations whi ch 
+eliminate most of the l abor involved in the customary t r ial- and- error 
+solution for the radial distribution of cl' is as follows for the 
+usual c'ase wher e it is desir ed to take tip l oss into account : 
+1 . Calculated Re , 
+chord . 
+the effective radi us , wher e 
+1 
+Re = R - 2 tip 
+2 . Calcul ate 
+0'0 - bco/nRe , 
+CT 
+I 
+T/pnr.fRe4, and the 
+factor 
+32CT I /a2ao 2. 
+3. Calculat e the values of 
+@l 
+16el / aao 
+and t 
+Cti p 
+- l. 
+Co 
+
+
+===== PAGE 32 =====
+30 
+NACA TN 2474 
+4 . Calculate the values of 
+@o = l6eo/aoo for several assumed 
+values of 
+eo likely to be in the vicinity of and to bridge the value 
+which will yield the desired thrust coefficient . 
+5. Calculate the values of 
+32CT ' /a2002 for the assumed values 
+of 
+@o 
+and the known values of 
+@l 
+and t 
+from the appropriate 
+equation, (A14), (A22), or (A27). 
+6 . Plot the calculated values of 
+32CT ' /a200
+2 against the assumed 
+values of 
+@o 
+and determine the value of 
+@o 
+giving the desired value 
+of 
+32CT ' /a2002, 
+and, thus, the value of the extended blade root 
+angle 
+eo 
+giving the desired thrust coefficient . 
+7. Calculate the radial distribution of clla, 
+¢, 
+and 
+equations (A7), (A4), and the airfoil profile drag polar . 
+8. Obtain the value of CQ', based on the effective radius , by 
+graphical integration where 
+from 
+The value of cd 
+existing at x 
+o 
+1 
+can be assumed 
+to extend to X'. 
+9. Calculate the value of the torque coefficient 
+If the radial distributions of the blade air loads are desired, 
+they can be calculated in the usual manner from the results of item 7 
+above . 
+, 
+
+
+===== PAGE 33 =====
+NACA TN 2474 
+REFERENCES 
+1. Glauert, H.: 
+The Analysis of Experimental Results in the Windmill 
+Brake and Vortex Ring States of an Airscrew. 
+R. & M. No. 1026, 
+British A.R.C., 1926. 
+31 
+2. Stewart, W.: 
+Flight Testing of Helicopters. 
+Jour. R.A.S., vol. 52, 
+no. 449, May 1948, pp. 261- 292; discussion, pp . 293- 304. 
+3. Gessow, Alfred: 
+Flight Investigation of Effects of Rotor-Blade 
+Twist on Helicopter Performance in the High-Speed and Vertical-
+Autorotative- Descent Conditions. 
+NACA TN 1666, 1948. 
+4. Gustafson, F. B., and Gessow, Alfred : 
+Flight Tests of the Sikorsky 
+HNS-l (Army YR- 4B) Helicopter . 
+II - Hovering and Vertical-Flight 
+Performance with the Original and an Alternate Set of Main-Rotor 
+Blades, Including a Comparison with Hovering Performance Theory. 
+NACA MR L5D09a, 1945. 
+5. Prandtl, L.: 
+The Mechanics of Viscous Fluids . 
+Spread of Turbulence. 
+Vol. III of Aerodynamic Theory, div e G, sec. 25, W. F. Durand, ed., 
+Julius Springer (Berlin), 1935, pp . 172-173. 
+6. Prandtl, L.: 
+The Mechanics of Viscous Fluids. 
+Some Examples of 
+Exact Solutions. 
+Vol. III of Aerodynamic Theory, dive G, sec. 10, 
+W. F. Durand, ed., Julius Springer (Berlin), 1935, pp. 68-69. 
+7. Lock, C. N. H., Bateman, H., and Townend, H. C. H.: 
+An Extension 
+of .the Vortex Theory of Airscrews with Applications to Airscrews 
+of Small Pitch, Including Experimental Results . 
+R. & M. No. 1014, 
+British A.R.C., 1926. 
+
+
+===== PAGE 34 =====
+32 
+NACA TN 2474 
+TABLE I . -
+SUJ+I.ARY OF DATA ON 6-FOOT- DIAMETER ROTOR IIITH CONSTANT- CHORD, UNTIIISTED BLADES 
+viOl'. 
+BO.75R 
+t<:Q 
+A. 
+A1 
+A1 
+v/oR 
+BO.75R 
+t<:Q 
+A. 
+A1 
+At 
+(thrust) 
+(torque) 
+(thrust) 
+(torque) 
+Run 3; eT - 0.004; 1200 rpm 
+Run 32; Cr - 0.002; 1200 rpm 
+0 r 
+8.83 
+0.000282 
+0 
+1.10 
+----
+0 
+5. 32 
+0.000087 
+0 
+0.97 
+1.09 
+.0400 
+8. 74 
+.000249 
+.91 
+1.98 
+2.08 
+.0048 
+5.00 
+.000087 
+.15 
+1.01 
+1.05 
+. 0556 
+8.83 
+.000251 
+1.27 
+2.37 
+2. 48 
+.0161 
+5. 21 
+.000077 
+.50 
+1. 43 
+1. 67 
+. 0658 
+8.83 
+. 000266 
+1.50 
+2. 60 
+2. 47 
+.029B 
+4.91 
+.000075 
+.92 
+1. 75 
+1.91 
+.0799 
+4.10 
+.000009 
+1.83 
+1.69 
+1.53 
+.0376 
+5.00 
+.000080 
+1. 15 
+2.01 
+2.12 
+.0762 
+4.87 
+.000039 
+1. 74 
+1.81 
+1.57 
+.0442 
+5.22 
+.000086 
+1. 36 
+2. 30 
+2.39 
+. 0795 
+3.99 
+.000010 
+1.82 
+1.65 
+1.54 
+.0484 
+5. 22 
+.000087 
+1. 49 
+2. 42 
+2.49 
+.0552 
+1.90 
+.000007 
+1. 70 
+1. 47 
+1. 65 
+Run 4; Cr = 0.004; 1200 rpm 
+.0592 
+1.39 
+- .000002 
+1.82 
+1. 42 
+1. 64 
+.0641 
+. 42 
+- .000025 
+1.97 
+1.22 
+1.39 
+0 
+8.66 
+0.000285 
+0 
+1.05 
+----
+.0676 
+- .28 
+-. 000042 
+2.08 
+1.09 
+1.24 
+.0168 
+8.40 
+.000270 
+. 38 
+1.37 
+----
+.0721 
+- .84 
+- .000092 
+2.21 
+1.03 
+.90 
+.0254 
+8.49 
+.000262 
+.58 
+1.59 
+----
+.0771 
+-1. 46 
+- .000069 
+2.37 
+·97 
+1.10 
+.0400 
+8. 32 
+.000243 
+.91 
+1.87 
+----
+Run 34; Cr • 0.002; 1600 rpm 
+.0550 
+8. 37 
+.000239 
+1. 26 
+2. 23 
+2.19 
+.0649 
+8.54 
+·000256 
+1.48 
+2.50 
+----
+0 
+5.33 
+0.000087 
+0 
+1.13 
+1.16 
+.0702 
+7.24 
+.000177 
+1.61 
+2. 29 
+2.45 
+.0734 
+4.79 
+.000046 
+1. 67 
+1. 72 
+1.57 
+.0043 
+5.12 
+.000083 
+. 36 
+1. 41 
+1. 43 
+. 0790 
+4. 10 
+.000018 
+1.81 
+1.67 
+1.57 
+.0113 
+5.12 
+.000084 
+.61 
+1. 615 
+1. 67 
+.0859 
+2.87 
+-. 000024 
+1.96 
+1.51 
+1. 53 
+.0191 
+4.81 
+.000073 
+.91 
+1.84 
+1.92 
+. 0949 
+1.23 
+- .000112 
+2.17 
+1.29 
+1.23 
+.0282 
+4.90 
+.000077 
+1.13 
+2.10 
+2.13 
+.0350 
+5.22 
+.000080 
+1.27 
+2.36 
+2.48 
+Run 5; Cor • 0.004; 1200 rpm 
+.0395 
+5. 21 
+.000082 
+1. 43 
+2.51 
+2.60 
+.0444 
+3.89 
+.000065 
+1.55 
+2.15 
+----
+.0481 
+3.89 
+.000055 
+1. 63 
+2.22 
+----
+0 
+8.86 
+0·000292 
+0 
+1.10 
+----
+.0504 
+1.88 
+.000006 
+1. 72 
+1. 58 
+1.65 
+. 0176 
+8.70 
+.000279 
+.40 
+1. 47 
+----
+.0533 
+1. 35 
+-.000007 
+1.84 
+1.51 
+1.55 
+.0265 
+8.53 
+.000270 
+.60 
+1.62 
+----
+.0572 
+.55 
+-. 000028 
+2.01 
+1.38 
+1.39 
+.0)88 
+8. 40 
+.000245 
+.89 
+1.87 
+----
+.0624 
+-.30 
+- .000053 
+2.22 
+1.28 
+1.24 
+.0552 
+8.53 
+.000249 
+1. 26 
+2.28 
+----
+.0690 
+-. 77 
+-.000078 
+2. 39 
+1.28 
+1.14 
+.0617 
+8.48 
+.000256 
+1. 41 
+2. 42 
+----
+.0670 
+8. 46 
+.000250 
+1. 53 
+2.53 
+----
+Run 35; Cr - 0.004; 1600 rpm 
+.0734 
+4.60 
+.000039 
+1. 67 
+1. 67 
+----
+.0790 
+3·99 
+.000011 
+1.81 
+1.64 
+----
+0 
+8. 68 
+0.000271 
+0 
+1.08 
+----
+.0856 
+2.58 
+-. 000039 
+1.96 
+1. 43 
+----
+.009B 
+8.64 
+.000270 
+.22 
+1.29 
+----
+.0949 
+1.18 
+- .000116 
+2. 17 
+1.27 
+----
+.0162 
+8.50 
+. 000261 
+. 37 
+1.40 
+----
+.0215 
+8.50 
+.000261 
+.49 
+1.52 
+----
+Run 6; Cr - 0.002; 1200 rpm 
+.0295 
+8. 45 
+.000248 
+.67 
+1. 69 
+1. 61 
+.0411 
+8. 30 
+. 000234 
+. 94 
+1.92 
+1. 98 
+0 
+5. 33 
+--------
+0 
+1.11 
+----
+.0485 
+8. 30 
+.000229 
+1.10 
+2.09 
+2.22 
+.0190 
+4.95 
+--------
+.61 
+1.58 
+----
+.0513 
+8.30 
+.000229 
+1.17 
+2.15 
+2.28 
+.0300 
+4.75 
+--------
+.97 
+1.87 
+----
+.0566 
+8.30 
+.000239 
+1.29 
+2.27 
+2.22 
+.0382 
+4.92 
+--------
+1.23 
+2. 19 
+----
+.0624 
+8. 30 
+.000243 
+1. 42 
+2. 41 
+----
+.0447 
+5.16 
+--------
+1.44 
+2.49 
+----
+.0684 
+7.22 
+.000175 
+1.56 
+2.26 
+2.50 
+.0490 
+4.26 
+--------
+1.58 
+2.30 
+----
+.0739 
+4.36 
+. 000048 
+1.69 
+1. 64 
+1. 72 
+.0556 
+1.44 
+--------
+1.80 
+1.48 
+----
+.0795 
+3.67 
+. 000020 
+1.81 
+1. 59 
+1. 69 
+.0596 
+.56 
+--------
+1. 92 
+1.28 
+----
+.0835 
+3.29 
+.000001 
+1.91 
+1. 58 
+1. 67 
+.0981 
+2.46 
+-.000045 
+2.01 
+1. 47 
+1.50 
+Run 9; Cr - 0.002; 1600 rpm 
+Run 36; Cr • 0.004; 1200 rpm 
+0 
+5. 13 
+0.000062 
+0 
+1. 05 
+1. 41 
+0 
+8. 49 
+0.000242 
+0 
+1.01 
+1.06 
+.0136 
+5.26 
+.000072 
+.43 
+1. 54 
+1. 79 
+.0066 
+8. 68 
+.000247 
+.15 
+1. 21 
+1. 32 
+.0214 
+4.87 
+.000067 
+. 69 
+1. 65 
+1.87 
+.0163 
+8.82 
+.000254 
+.37 
+1. 47 
+1. 57 
+.0303 
+4.88 
+.000065 
+.98 
+1.94 
+2.19 
+.0238 
+8.74 
+.000245 
+.54 
+1. 62 
+1.78 
+.0373 
+4.81 
+.000067 
+1.20 
+2.14 
+2. 34 
+.0353 
+8.68 
+.000232 
+.81 
+1.86 
+2.13 
+.0417 
+5.03 
+.000077 
+1.35 
+2. 36 
+2. 47 
+.0459 
+8.51 
+.000215 
+1.05 
+2.06 
+2.40 
+.0463 
+5.01 
+.000081 
+1. 50 
+2.51 
+2.53 
+. 0525 
+8.72 
+.000224 
+1.20 
+2. 27 
+2.61 
+. 0501 
+3. 44 
+. .000045 
+1. 62 
+2.05 
+----
+.0590 
+8. 62 
+.000233 
+1.35 
+2.39 
+2.61 
+.0525 
+1.94 
+.000030 
+1. 69 
+1.57 
+1. 55 
+.0652 
+8.80 
+.000247 
+1. 49 
+2.58 
+2.75 
+.0561 
+1.27 
+- .000002 
+1.81 
+1.44 
+1.63 
+.0684 
+8.00 
+.000194 
+1.'56 
+2.44 
+2.80 
+.0602 
+.68 
+-.000026 
+1.94 
+1.35 
+1. 33 
+.0715 
+6. 34 
+.000106 
+1.63 
+2.08 
+2.77 
+.0650 
+- .11 
+-. 000050 
+2. 10 
+1.22 
+1.17 
+.0764 
+5.25 
+.000054 
+1. 75 
+1.91 
+----
+.0720 
+-1. 32 
+-. 000072 
+2. 32 
+1.00 
+1.00 
+.0831 
+4.29 
+.000016 
+1.90 
+1.81 
+1.67 
+. 0763 
+-1. 66 
+- .000084 
+2. 46 
+1.02 
+.99 
+.0914 
+2.81 
+-.000047 
+2.09 
+1. 62 
+1.56 
+Run 14; Cr = 0.005; 1600 rpm 
+Run 38; Cr • 0.005; 1600 rpm 
+0 
+10.06 
+0.000414 
+0 
+1.03 
+----
+0 
+10.19 
+--------
+0 
+1.05 
+----
+.0103 
+9.99 
+.000409 
+. 21 
+1.21 
+----
+.0096 
+10.18 
+--------
+.20 
+1. 24 
+----
+.0215 
+9.81 
+.000400 
+. 43 
+1. 54 
+----
+.0161 
+10.18 
+--------
+. 33 
+1. 38 
+----
+.0287 
+10.02 
+.000396 
+.57 
+1. 79 
+----
+.0210 
+10.02 
+--------
+.43 
+1.44 
+----
+.0386 
+10.13 
+.000397 
+.77 
+1.81 
+----
+.0271 
+10.02 
+--------
+.55 
+1.56 
+----
+. 0510 
+10.36 
+--------
+1. 02 
+2.11 
+----
+.0364 
+10.14 
+--------
+. 74 
+1. 78 
+----
+.0548 
+10.69 
+--------
+1.10 
+2.27 
+----
+.0496 
+10. 41 
+--------
+1.01 
+2.11 
+----
+.0586 
+10.96 
+------- -
+1.17 
+2.40 
+----
+.0535 
+10.22 
+--------
+1.09 
+2.15 
+----
+.0656 
+10.92 
+--------
+1. 31 
+2.54 
+----
+.0569 
+10.14 
+--------
+1.16 
+2.20 
+----
+.0722 
+9.80 
+--------
+1.44 
+2. 41 
+----
+.0602 
+10. 14 
+--------
+1.23 
+2.27 
+----
+.0762 
+9.80 
+--------
+1.52 
+2. 49 
+----
+.0629 
+9.98 
+--------
+1.28 
+2.28 
+----
+.0782 
+9.79 
+.000377 
+1.56 
+2.53 
+----
+.0662 
+9.98 
+--------
+1.35 
+2. 35 
+----
+.0818 
+5.07 
+.000091 
+1.64 
+1.50 
+----
+.0695 
+9.84 
+--------
+1.42 
+2.39 
+----
+. 0888 
+5. 49 
+.000086 
+1.78 
+1. 74 
+1.89 
+.0745 
+10.22 
+--------
+1.52 
+2.58 
+----
+.0898 
+4.89 
+.000051 
+1.80 
+1.62 
+1. 75 
+.0765 
+9. 35 
+0.000172 
+1.56 
+2. 42 
+----
+.0958 
+3.52 
+-. 000016 
+1.92 
+1.42 
+1. 79 
+.0801 
+6.58 
+.000146 
+1.63 
+1.84 
+1.98 
+0 
+10.01 
+.000407 
+----
+----
+----
+.0819 
+6. 45 
+.000130 
+1.71 
+1.89 
+1.88 
+.0883 
+5.22 
+.000094 
+1.80 
+1. 70 
+2.09 
+.0940 
+4.77 
+.000038 
+1.92 
+1.71 
+1. 77 
+.10)2 
+3. 39 
+-.000060 
+2.11 
+1.58 
+1.54 
+L 
+
+
+===== PAGE 35 =====
+5 
+NACA TN 2474 
+33 
+TABLE II. - SUJoIMARY OF DATA ON 6-FOOT-DIAMETER ROTOR RAVING UNTWISTED BlADES WITH 3/1 TAPER 
+V/OR 
+60. 75R 
+L'CQ 
+A 
+1.1 
+1.1 
+V/OR 
+60. 75R 
+L'CQ 
+Az 
+At 
+).i 
+z 
+(thrust) 
+(torque) 
+(thrust) 
+(torque) 
+Run 48; Or 
+5 0.002; 1200 rpm 
+Run 58; Or - 0.002; 1200 rpm 
+0 
+5.1<0 
+0.000086 
+0 
+1.03 
+0.98 
+0 
+5.1<0 
+0.000082 
+0 
+1.01 
+1.06 
+.0068 
+5.40 
+.000085 
+.22 
+1. 24 
+1. 22 
+.0053 
+5. 22 
+. 000081 
+.17 
+1.12 
+1.10 
+.0188 
+5.04 
+.000076 
+.6l. 
+1.50 
+1.48 
+. 0168 
+5·00 
+.000075 
+.53 
+1. 41 
+1.1<0 
+.0300 
+4.81 
+. 000068 
+·97 
+1.78 
+1.82 
+.0296 
+5.00 
+.000068 
+.95 
+1.82 
+1. 96 
+.0376 
+4.99 
+.000075 
+1.21 
+2. 09 
+2.06 
+.0371 
+5. 00 
+.000071 
+1.19 
+2. 05 
+2.14 
+.0437 
+5.26 
+.000081 
+1.42 
+2.37 
+2. 36 
+.0429 
+5.18 
+.000076 
+1. 37 
+2.30 
+2. 37 
+.0477 
+4.95 
+.000074 
+1.54 
+2. 39 
+2.36 
+.0472 
+5. 18 
+.000076 
+1. 51 
+2. 43 
+2.51 
+.0552 
+3.62 
+.000052 
+1.79 
+2.19 
+2.19 
+.0539 
+3.45 
+.000045 
+1. 73 
+2.07 
+2.13 
+.0588 
+1.1<0 
+-.000005 
+1.90 
+1.56 
+1.62 
+.0574 
+1.45 
+. 000000 
+1.84 
+1.52 
+1.68 
+.0634 
+-.13 
+-.000020 
+2. 05 
+1.20 
+1.47 
+. 0618 
+.60 
+-.000014 
+1.98 
+1.38 
+1.55 
+. 0669 
+-. 68 
+-. 000037 
+2.17 
+1.13 
+1. 31 
+.0650 
+-. 34 
+-.000030 
+2.08 
+1.17 
+1.42 
+.0716 
+-1.53 
+-.000051 
+2. 32 
+.99 
+----
+.0696 
+-. 62 
+-.000041 
+2.23 
+1.22 
+----
+. 0771 
+-2.10 
+-. 000068 
+2.50 
+.98 
+----
+.0767 
+-1.60 
+-. 000064 
+2. 46 
+1.12 
+----
+. 081<0 
+- 3.03 
+-.000083 
+2. 72 
+.89 
+----
+Run 49; Or = 0.004; 1200 rpm 
+Run 59; Or • 0.005; 1200 rpm 
+0 
+9.00 
+0.000248 
+0 
+1.01 
+1. 05 
+0 
+10.78 
+--------
+0 
+1. 04 
+----
+. 0051 
+9.00 
+.000248 
+.11 
+1.12 
+1.17 
+. 0048 
+10. 78 
+--------
+.07 
+1.14 
+----
+. 0159 
+9· 05 
+.000245 
+.36 
+1. 37 
+1.48 
+.0141 
+10. 47 
+--------
+. 27 
+1. 30 
+----
+.0241 
+9.00 
+. 000238 
+.54 
+1.55 
+1. 71 
+.0243 
+10.71 
+--------
+. 46 
+1.52 
+----
+.0360 
+9.00 
+.000235 
+.81· 
+1.81 
+2.00 
+.0360 
+10.71 
+--------
+. 66 
+1. 75 
+----
+.0455 
+9.00 
+.000229 
+1.02 
+2.03 
+2.27 
+.0470 
+10.81 
+--------
+.92 
+1.99 
+----
+.0526 
+9.13 
+.000238 
+1.18 
+2. 21 
+2.42 
+.0537 
+10.62 
+--------
+loll 
+2.09 
+----
+.0597 
+8.87 
+. 000229 
+1. 34 
+2.31 
+2. 52 
+.0610 
+10. 62 
+--------
+1.25 
+2.23 
+----
+. 0628 
+9.20 
+.000239 
+1.41 
+2. 46 
+2.66 
+.0641 
+10.62 
+--------
+1.32 
+2.29 
+----
+. 0681 
+9.20 
+.000243 
+1.53 
+2.58 
+2. 77 
+.0678 
+10.62 
+--------
+1.1<0 
+2. 37 
+----
+. 0716 
+7.75 
+. 000179 
+1.60 
+2. 31 
+2.71 
+.0725 
+10.62 
+--------
+1. 47 
+2. 42 
+----
+.0760 
+6.33 
+.000122 
+1.70 
+2.08 
+2.16 
+.0731 
+10.62 
+--------
+1. 55 
+2.48 
+----
+.0822 
+3.13 
+-. 000006 
+1.84 
+1.47 
+1.89 
+.0782 
+9.82 
+--------
+1.58 
+2. 41 
+----
+. 0910 
+1.02 
+-.000086 
+2.04 
+1.17 
+1.48 
+. 0839 
+8.50 
+--------
+1.70 
+2.25 
+----
+. 0923 
+5. 34 
+--------
+1.86 
+1.75 
+----
+Run 50; Or • 0.005; 1200 rpm 
+. 0945 
+3.21 
+--------
+2.00 
+1. 35 
+----
+0 
+10.73 
+0.000365 
+0 
+1.03 
+0.92 
+Run 61; Or = 0.002; 1600 rpm 
+.0035 
+10.68 
+.000367 
+.07 
+1.09 
+----
+.0130 
+11.07 
+.000395 
+.27 
+1 . 37 
+----
+0 
+5.33 
+0. 000095 
+0 
+0.99 
+----
+.0223 
+11.07 
+.000398 
+. 46 
+1.55 
+----
+0 
+5.38 
+.000100 
+0 
+1.00 
+----
+.0323 
+10.96 
+.000387 
+. 66 
+1.73 
+----
+.0036 
+5. 38 
+.000101 
+.11 
+1.12 
+----
+.0612 
+10.78 
+.000366 
+1.25 
+2.27 
+2.21 
+. 0116 
+5. 38 
+.000099 
+. 37 
+1.37 
+----
+.0645 
+10.78 
+.000368 
+1. 32 
+2.34 
+2.23 
+.0179 
+5.27 
+.000094 
+.57 
+1.53 
+----
+.0685 
+10.78 
+.000368 
+1.1<0 
+2. 42 
+2.31 
+.0269 
+4.95 
+.000088 
+.85 
+1.71 
+----
+.0723 
+10.78 
+.000369 
+1.47 
+2.49 
+2.35 
+.0349 
+4. 69 
+.000083 
+1.10 
+1.88 
+----
+.0733 
+9.60 
+.000302 
+1.58 
+2.34 
+----
+.0398 
+4.69 
+.000085 
+1.26 
+2. 03 
+----
+.0831 
+8.48 
+.000227 
+1.70 
+2. 23 
+2.20 
+. 0445 
+4.69 
+.000086 
+1.1<0 
+2.18 
+----
+.0913 
+4.15 
+.000009 
+1.86 
+1. 48 
+1.61 
+. 0471 
+4.95 
+.000090 
+1.49 
+2. 35 
+----
+.0980 
+3.02 
+-. 000063 
+2. 00 
+1. 38 
+1.44 
+. 0496 
+5.33 
+.000095 
+1.57 
+2. 56 
+----
+. 0511 
+4. 41 
+.000083 
+1.61 
+2.30 
+----
+Run 51; Or • 0. 002; 1600 rpm 
+. 0541 
+3.89 
+.000069 
+1.71 
+2. 22 
+----
+.0578 
+2. 21 
+. 000038 
+1.82 
+1. 78 
+----
+0 
+5.1<0 
+0. 000Q98 
+0 
+1. 05 
+----
+.0626 
+.01 
+-.000013 
+1. 97 
+1.20 
+1.54 
+.0046 
+5.16 
+.000096 
+.15 
+loll 
+----
+.0694 
+-1. 62 
+- .00001<0 
+2.19 
+.88 
+1.14 
+. 0128 
+4.79 
+.000091 
+.41 
+1.25 
+----
+.071<0 
+-2.52 
+- .000056 
+2.34 
+. 73 
+.96 
+.0194 
+4.79 
+.000088 
+. 63 
+1.46 
+----
+.0797 
+-3. 43 
+-.000074 
+2.52 
+. 61 
+.81 
+.0280 
+4.79 
+.000086 
+.91 
+1.73 
+----
+.0350 
+4. 69 
+.000077 
+1.13 
+1.92 
+----
+Run 64; Or • 0 .004; 1600 rpm 
+.0398 
+4.97 
+.000086 
+1.29 
+2.16 
+----
+.0447 
+5.12 
+.000091 
+1. 45 
+2. 37 
+----
+0 
+9. 01 
+--------
+0 
+1.09 
+----
+.0465 
+5.12 
+. 000090 
+1. 51 
+2.43 
+----
+.0038 
+9·01 
+--------
+·09 
+1.17 
+----
+.0485 
+5.21 
+.000091 
+1.57 
+2.52 
+----
+.0109 
+8.86 
+--------
+. 25 
+1.30 
+----
+.0501 
+4.69 
+.000085 
+1.62 
+2. 1<0 
+----
+.0153 
+9. 01 
+--------
+. 35 
+1.42 
+----
+.0528 
+3.31 
+.000065 
+1. 71 
+2.03 
+----
+.0201 
+9.01 
+--------
+.47 
+1.54 
+----
+. 0561 
+2. 24 
+. 000041 
+1.82 
+1.75 
+----
+.0262 
+9. 03 
+--------
+. 61 
+1. 68 
+----
+. 0604 
+-.11 
+-.000017 
+1.96 
+----
+1.22 
+.0365 
+9.19 
+--------
+.85 
+1.95 
+----
+. 0674 
+-1. 28 
+-.000042 
+2.18 
+.97 
+1.14 
+.0473 
+9.30 
+--------
+1.10 
+2.21 
+----
+.0715 
+-1.91 
+-.000054 
+2.32 
+.89 
+1.04 
+.0504 
+9. 30 
+--------
+1.17 
+2.28 
+----
+Run 54; Or • 0.004; 1600 rpm 
+.0534 
+9.30 
+--------
+1.24 
+2.35 
+----
+.0566 
+9.10 
+--------
+1. 31 
+2.37 
+----
+8.99 
+.0601 
+9.10 
+--------
+1. 39 
+2.45 
+----
+0 
+--------
+0 
+1.03 
+----
+.0637 
+9.33 
+--------
+1.48 
+2.59 
+----
+. 0093 
+8.99 
+--------
+.21 
+1.24 
+----
+.0677 
+9. 33 
+--------
+1. 57 
+2.68 
+----
+.0153 
+8.99 
+--------
+. 34 
+1. 37 
+----
+.0722 
+9.33 
+--------
+1. 68 
+2.78 
+----
+.0191 
+8.99 
+--------
+.43 
+1. 46 
+----
+.0743 
+6.85 
+--------
+1. 73 
+2.24 
+----
+. 0299 
+9.14 
+--------
+.68 
+1. 73 
+----
+.0785 
+4. 62 
+--------
+1.82 
+1.82 
+----
+.0418 
+9.46 
+--------
+.95 
+2.07 
+----
+.0820 
+1. 56 
+--------
+1.90 
+1.18 
+----
+.0495 
+9.17 
+--------
+1.12 
+2.18 
+----
+.0865 
+- .10 
+--------
+2.01 
+----
+----
+. 0524 
+9.17 
+--------
+1.19 
+2. 24 
+----
+.0921 
+-L Ie 
+--------
+2.14 
+----
+----
+.0558 
+9.17 
+--------
+1. 26 
+2. 32 
+----
+. 0583 
+9.17 
+--------
+1. 32 
+2.38 
+----
+~ 
+.0617 
+9.17 
+--------
+1.1<0 
+2.45 
+----
+. 0652 
+9.17 
+--------
+1. 48 
+2.53 
+----
+.0684 
+9.17 
+--------
+1.55 
+2.60 
+----
+.0755 
+7.09 
+--------
+1.71 
+2. 27 
+----
+.0797 
+4.16 
+--------
+1.80 
+1.68 
+----
+. 0830 
+2. 41 
+--------
+1.88 
+1. 34 
+----
+. 0875 
+1.20 
+--------
+1.98 
+1.16 
+----
+
+
+===== PAGE 36 =====
+v/nR 
+. 90.75R 
+0 
+I 
+4.93 
+.0066 
+4.93 
+.0181 
+4.76 
+.0287 
+4.52 
+.0364 
+4.52 
+.0424 
+4.69 
+.0486 
+4.93 
+.0550 
+5.64 
+.0579 
+5.99 
+.0612 
+4.65 
+.0649 
+3.63 
+.0702 
+-.46 
+.0755 
+-1.85 
+.0819 
+- 2.80 
+.0914 
+-4.20 
+.0976 
+-4.73 
+0 
+5.12 
+0 
+8.67 
+.0057 
+8.67 
+.0157 
+8.67 
+.0238 
+8.34 
+.0351 
+8.52 
+.0459 
+8.16 
+.0526 
+8.16 
+.0594 
+8.48 
+.0627 
+8.69 
+.0669 
+9.08 
+.0698 
+9.32 
+.0733 
+9.61 
+.0763 
+8.80 
+.0816 
+4.31 
+. . 0906 
+2.).10 
+.0972 
+1.03 
+.1020 
+-. 50 
+0 
+8.62 
+TABLE 111.- SUMMARY OF DATA ON 6-FOOT- DIAMETER ROTOR WITH CONSTANT-CHORD, 
+TWISTED BLADES (120 LINEAR WASHOUT) 
+llCQ 
+Az 
+Ai 
+Ai 
+(t hrust ) 
+(t orque) 
+v/nR I 
+90. 75R 
+llCQ 
+Az 
+Ai 
+(thrust) 
+Run 65; cT = 0.002 ; 1200 rpm 
+Run 67 ; CT = 0.005; 1200 rpm 
+0.000079 
+0 
+1.04 
+1.03 
+0 
+10.80 
+0.000377 
+0 
+1.17 
+.000078 
+.21 
+1.25 
+1.26 
+.0057 
+10.66 
+.000364 
+.12 
+1.26 
+.000074 
+.59 
+1.57 
+1.59 
+.0152 
+10.66 
+.000361 
+.31 
+1.45 
+.000068 
+.93 
+1.32 
+1.88 
+.0221 
+10 .33 
+.000332 
+.45 
+1.52 
+.000065 
+1.18 
+2.07 
+2.20 
+.0305 
+10.53 
+.000333 
+.63 
+1. 74 
+.000066 
+1.38 
+2.33 
+2.50 
+.0435 
+10.13 
+.000307 
+.89 
+1.93 
+.000076 
+1.58 
+2.61 
+2.67 
+.0538 
+10.30 
+.000301 
+loll 
+2.16 
+.000090 
+1.78 
+3.07 
+3.15 
+.0609 
+10.30 
+.000296 
+1.25 
+2.31 
+.000101 
+1.86 
+3.27 
+3.29 
+.0644 
+10.30 
+.000308 
+1.32 
+2.38 
+.000078 
+1. 99 
+2. 92 
+----
+.0684 
+10.66 
+.000331 
+1.40 
+2.54 
+.000058 
+2.11 
+2.68 
+----
+.0713 
+10.80 
+.000338 
+1.46 
+2.64 
+-. 000021 
+2.28 
+1.40 
+1.54 
+.0753 
+11.28 
+.000366 
+1.55 
+2.83 
+-. 000038 
+2.45 
+1.08 
+1.26 
+.0806 
+11.67 
+.000393 
+1.65 
+3.02 
+-. 000051 
+2.66 
+.96 
+1.13 
+.0832 
+10.72 
+.000350 
+1.71 
+2.86 
+-. 000070 
+2.97 
+. 77 
+.94 
+.0904 
+6.20 
+.000149 
+1.85 
+1.99 
+-. 000081 
+3.17 
+. 78 
+.93 
+.0967 
+5.41 
+.000111 
+1.98 
+1.95 
+.000085 
+0 
+----
+----
+.1044 
+3.64 
+.000053 
+2.14 
+1. 70 
+.1094 
+2.17 
+-. 000028 
+2.25 
+1.48 
+Run 66; cT = 0.004 ; 1200 rpm 
+0 
+11.07 
+.000382 
+0 
+1.23 
+0.000252 
+0 
+1.07 
+----
+.000251 
+.13 
+1.20 
+----
+Run 68 ; cT = 0.002 ; 1600 rpm 
+.000248 
+.36 
+1.43 
+----
+0 
+5.12 
+0.000083 
+0 
+1.05 
+.000231 
+.55 
+1.53 
+----
+.0183 
+5.03 
+.000089 
+.59 
+1.61 
+.000223 
+.80 
+1.84 
+1.98 
+.0269 
+4.80 
+.000080 
+.87 
+1.81 
+.000208 
+1.05 
+2.00 
+2.15 
+.0340 
+4.49 
+.000072 
+1.10 
+1. 93 
+.000202 
+1.20 
+2.15 
+2.37 
+.0388 
+4.21 
+.000065 
+1. <'5 
+1.99 
+.000218 
+1. 36 
+2. 39 
+2.57 
+.0440 
+4.82 
+.000073 
+1.42 
+2.36 
+.000227 
+1.44 
+2.52 
+2.69 
+.0466 
+4.88 
+.000073 
+1.50 
+2.46 
+.000214 
+1.53 
+2.71 
+3.09 
+.0492 
+5.38 
+.000080 
+1.58 
+2.72 
+.000253 
+1.60 
+2.33 
+2.99 
+.0518 
+5.57 
+.000084 
+1.67 
+2.87 
+.000270 
+1.68 
+2.:19 
+3.11 
+.0546 
+5.96 
+.000092 
+1.76 
+3.09 
+.000244 
+1. 75 
+2.85 
+2.87 
+.0570 
+5.96 
+.000095 
+1.84 
+3.17 
+.000073 
+1. 87 
+1.85 
+----
+.0611 
+3.52 
+.000068 
+1. 97 
+2.47 
+.000014 
+2.08 
+1.58 
+2.00 
+.0677 
+-1.13 
+-. 000020 
+2.18 
+1.10 
+I 
+-. 000038 
+2.23 
+1.38 
+1. 70 
+-. 000066 
+2.34 
+loll 
+1.52 
+.000249 
+0 
+1.06 
+----
+.0723 
+-1. 86 
+-. 000034 
+2.33 
+1.00 
+.0781 
+- 2.90 
+- .000049 
+2.52 
+.83 
+.0821 
+- 3.56 
+-. 000061 
+2.64 
+.73 
+.0862 
+-4.15 
+- .000066 
+2.78 
+.67 
+Ai 
+(torque) 
+0.99 
+1.29 
+1.46 
+1.65 
+1. 95 
+2.19 
+2.53 
+2.71 
+2.70 
+2.83 
+2.91 
+3.06 
+3.21 
+3.01 
+----
+----
+----
+1.86 
+1.26 
+0.96 
+----
+----
+----
+----
+2.38 
+2.51 
+2.82 
+2.96 
+3.18 
+3.22 
+----
+1.34 
+1.20 
+1.02 
+.89 
+.84 
+~ 
+I 
+W 
+J=""' 
+~ 
+o 
+:<> 
+1-3 
+Z 
+I\) 
+J=""' 
+--.J 
+J=""' 
+
+
+===== PAGE 37 =====
+NACA TN 2474 
+TABLE IV . - SUMMARY OF DATA ON 4- FOOT- DIAl"lETER ROTOR WITH CONSTANT-CHORD, 
+UNTWISTED BLADES 
+v/nR 90 . 75R 
+6CQ 
+Az 
+Ai 
+Ai 
+(thrust) (t orque) 
+v/nR 90.75R 
+6CQ 
+Az 
+Ai 
+(thrust ) 
+-
+----
+Run 20; CT = 0.002 ; 1200 rpm 
+Run 25; CT = 0.004; 1600 rpm 
+0 
+5.06 0.000083 0 
+L OS 
+0.95 
+.0277 
+5.32 
+.000056 
+.88 
+1.99 
+2. 39 
+.0377 
+5.43 
+.000062 1.19 
+2. 38 
+2. 74 
+.0400 
+5.32 
+.000057 1. 27 
+2.41 
+2.81 
+.0491 
+5.06 
+.000052 1.56 
+2.61 
+3.02 
+.0597 
+1.87 -. 000013 1.89 
+1.76 
+1.48 
+.0702 
+-. 39 -. 000053 2. 22 
+1.27 
+1. 20 
+.0818 
+- 2.48 -. 000079 2.59 
+.86 
+. 94 
+0 
+8.54 0.000221 0 
+1.04 
+.0239 
+8.45 
+.000200 
+.54 
+1.55 
+.0330 
+8. 70 
+.000185 
+. 75 
+1.82 
+.0405 8. 70 
+.000192 
+.92 
+1. 99 
+.0480 
+9.06 
+.000209 1.09 
+2.25 
+.0551 
+9.32 
+.000229 1. 26 
+2.48 
+.0625 
+8.33 
+.000200 1.43 
+2.39 
+.0666 
+7.25 
+.000156 1.53 
+2.20 
+Run 22; CT = 0.005; 1200 r pm 
+.0720 6.03 
+.000100 1.64 
+2.00 
+.0757 
+5·47 
+.000079 1. 73 
+1.94 
+0 
+9.89 0.000305 0 
+0.96 
+1. 27 
+.0099 10.35 
+.000312 
+.20 
+1.26 
+1.68 
+.0307 11.08 
+.000330 
+.61 
+1.85 
+2.33 
+.0810 4.26 
+.000030 1.85 
+1.70 
+.0863 
+2.58 -. 000027 1.97 
+1.42 
+.0931 
+.88 -. 000098 2.13 
+1.13 
+.0431 10.69 
+.000312 
+.86 
+2.00 
+2.50 
+.0531 10.69 
+.000312 1.06 
+2. 20 
+2. 70 
+Run 28 ; CT = 0.004; 1600 rpm 
+.0627 11.04 
+.000348 1.25 
+2.48 
+2.87 
+.0691 
+9.98 
+.000321 1. 28 
+2.36 
+2.58 
+.0824 
+6.91 
+.000168 1.65 
+1.91 
+----
+.0888 
+6.16 
+. ()00136 1. 78 
+1.87 
+----
+.0961 
+5.09 
+.000088 1. 92 
+1.76 
+2.35 
+.1015 
+3.36 -. 000009 2.03 
+1.47 
+1.74 
+.1068 
+2.09 -. 000083 2.14 
+1.28 
+1.48 
+- -'-
+0 
+8.60 0.000236 0 
+1.06 
+.0207 
+8.79 
+.000227 
+.47 
+1.57 
+.0330 
+8.79 
+.000208 
+.75 
+1.84 
+.0411 
+8.86 
+.000213 
+. 93 
+2.05 
+.0480 9.29 
+.000219 1.09 
+2. 31 
+.0552 
+9.41 
+.000241 1.26 
+2.50 
+.0630 8.43 
+.000214 1.43 
+2.42 
+Run 23; CT = 0.002 ; 1600 rpm 
+.0667 
+7.43 
+.000159 1.52 
+2. 24 
+0 
+4 .95 0.000089 0 
+0. 95 
+----
+.0092 
+4.95 
+.000082 
+.29 
+1.24 
+1.20 
+Run 30; CT - 0.004; 1200 r pm 
+.0239 
+4.99 
+.000073 
+. 76 
+1.73 
+1.90 
+.0323 
+5.34 
+.000083 1.03 
+2.12 
+2.27 
+.0390 
+5.34 
+.000084 1.24 
+2. 33 
+2.47 
+.0463 
+4. 93 
+.000072 1.47 
+2.42 
+2.58 
+.0532 
+3.48 
+.000042 1.69 
+2.11 
+2.16 
+.0627 
+. 75 -. 000011 1.99 
+1.42 
+1.64 
+.0671 
+-. 54 -. 000032 2.14 
+1.09 
+1.33 
+.0725 - 1.33 - .000058 2.30 
+.97 
+loll 
+.0765 - 2.19 -. 000073 2.44 
+.80 
+. 94 
+0 
+8.64 
+0.000220 0 
+1.17 
+.0112 
+8.32 
+--------
+.27 
+1.34 
+.0300 8.32 
+--------
+.73 
+1.76 
+.0413 
+8.84 
+-------- 1.01 
+2.15 
+.0515 
+9.22 
+.000199 1.26 
+2.47 
+.0601 
+8.12 
+.000182 1.47 
+2 .38 
+.0700 
+5. 76 
+.000070 1. 71 
+1. 99 
+.0825 
+3.12 
+.000001 2.02 
+1. 58 
+.0885 1.12 -.000067 2.16 
+1.20 
+Run 24; cT = 0.005; 1600 rpm 
+.0950 -. 56 -. 000117 2. 32 
+.91 
+t-
+O 
+9.99 0.000322 0 
+0.99 
+1.28 
+.0226 10.00 
+.000298 
+.46 
+1.44 
+1.90 
+.0335 10.66 
+.000299 
+.68 
+1.81 
+2.40 
+.0415 10.48 
+.000283 
+.84 
+1.93 
+2.55 
+.0488 10. 29 
+.000270 
+.99 
+2.03 
+2.68 
+.0630 10. 29 
+.000306 1.28 
+2. 32 
+2.80 
+.0720 
+8.05 
+.000196 1.46 
+1.98 
+1.68 
+.0761 
+7.42 
+.000171 1.54 
+1.91 
+1.78 
+.0813 
+6.96 
+.000155 1.64 
+1.91 
+1.92 
+.0865 
+----
+.000135 1. 75 
+----
+--- -
+.0935 
+4.85 
+.000044 1.90 
+1.66 
+1.78 
+.1040 
+2.18 - .000101 2.12 
+1.25 
+1. 38 
+.1106 
+.96 -. 000167 2.25 
+1.10 
+1.22 
+35 
+Ai 
+(torque) 
+1.35 
+1.99 
+2. 39 
+2.52 
+2. 75 
+2. 92 
+2.80 
+2. 67 
+1. 72 
+1. 76 
+1.69 
+1.53 
+1. 25 
+1.26 
+1.91 
+2.31 
+2.49 
+2.80 
+2. 90 
+2. 76 
+2. 74 
+1.36 
+----
+- - --
+----
+2. 91 
+2. 72 
+----
+1.61 
+1.29 
+1.16 
+
+
+===== PAGE 38 =====
+36 
+NACA TN 2474 
+TABLE V.- HOVERING DATA FOR 6-FOOT-DIAMETER ROTOR 
+WITH CONSTANT-CHORD) UNTWISTED BLADES 
+eo. 75R 
+CT 
+6CQ 
+Run 15; 1200 rpm 
+0 
+0 
+0 
+1.26 
+.00028 
+.000002 
+3.08 
+.00098 
+.000024 
+4.91 
+.00168 
+.000070 
+6. 68 
+.00289 
+.000137 
+8.46 
+.00400 
+.000226 
+10.29 
+.00488 
+.000342 
+11.99 
+.00526 
+--------
+Run 16; 1600 rpm 
+0 
+0 
+0 
+. 63 
+.00013 
+.000001 
+2.31 
+.00075 
+.000016 
+3. 96 
+.00160 
+.000053 
+5. 55 
+.00255 
+.000108 
+7.18 
+.00346 
+.000194 
+8.85 
+.00421 
+.000301 
+Run 39; 1200 rpm 
+• 
+0 
+0 
+0 
+1. 66 
+.00024 
+.000006 
+3.42 
+.00088 
+.000029 
+5 . 22 
+.00179 
+.000070 
+6. 99 
+.00284 
+.000138 
+8 . 70 
+.00414 
+.000228 
+10.34 
+.00513 
+.000323 
+Run 41; 1600 rpm 
+----
+0 
+0 
+1.53 
+.00018 
+.000004 
+3.15 
+.00089 
+.000025 
+4.81 
+.00187 
+.000050 
+6.45 
+. 00278 
+.000114 
+8 . 02 
+.00374 
+.000199 
+9 .53 
+.00471 
+.000321 
+
+
+===== PAGE 39 =====
+NACA TN 2474 
+37 
+TABLE VI .- HOVERING DATA FOR 6- FOOT- DIAMETER ROTOR 
+HAVING UNTWISTED BLADES WITH 3/1 TAPER 
+80 •75R 
+CT 
+6CQ 
+Run 44 
+, 
+0 
+0 
+0 
+1.15 
+.00019 
+. 000005 
+1.20 
+. 00026 
+. 000007 
+3. 00 
+.00087 
+. 000017 
+3. 02 
+. 00090 
+. 000025 
+3 . 12 
+.00094 
+. 000030 
+4 . 90 
+.00175 
+.000055 
+5 . 07 
+.00194 
+. 000054 
+6 . 78 
+.00277 
+.000113 
+7. 00 
+.00300 
+.000117 
+8 .64 
+. 00404 
+.000213 
+8. 86 
+.00413 
+. 000228 
+10 . 65 
+.00496 
+.000340 
+
+
+===== PAGE 40 =====
+38 
+NACA TN 2474 
+TABLE VII.- HOVERING DATA FOR 4-FOOT-DIAMETER ROTOR 
+WITH CONSTANT-CHORD, UNTWISTED BLADES 
+80. 75R 
+CT 
+6CQ 
+Run 17; 1200 rpm 
+0 
+0 
+0 
+loll 
+.00017 
+.000002 
+2.10 
+.00052 
+.000016 
+4.05 
+.00152 
+.000058 
+6.02 
+.00275 
+.000110 
+8.00 
+.00397 
+.000196 
+9. 92 
+.00468 
+.000271 
+11 .73 
+.00527 
+.000375 
+8. 30 
+.00411 
+.000229 
+Run 18 ; 1600 r pm 
+0 
+0 
+0 
+1..93 
+.00044 
+.000020 
+3.83 
+.00136 
+.000050 
+5. 70 
+.00245 
+.000109 
+7. 72 
+.00382 
+.000203 
+9.61 
+.00477 
+.000279 
+11.39 
+.00535 
+.000373 
+7. 68 
+.00379 
+.000201 
+3. 83 
+.00135 
+.000041 
+
+
+===== PAGE 41 =====
+NACA TN 2474 
+39 
+TABLE VIII. - VALUES OF MACH NUMBER, REYNOLDS NUMBER, AND 
+CALCULATED SLOPE OF LIFT CURVE AT THREE-QUARTER-
+RADIUS POINT FOR TEST CONDITIONS 
+4-foot- diameter 
+6- foot-diameter 
+Speed 
+rotor 
+rotors 
+(rpm) 
+Mach 
+Reynolds 
+Slope of 
+Mach 
+Reynolds 
+Slope of 
+number 
+number 
+lift curve 
+number 
+number 
+lift curve 
+1200 
+0.165 
+114,000 
+5.83 
+0 . 248 
+256,000 
+5.95 
+1600 
+.220 
+152,000 
+5.90 
+. 330 
+341,000 
+6.07 
+
+
+===== PAGE 42 =====
+40 
+NACA TN 2474 
+F~gure 1.- Test stand with 6- foot- diameter rotor installed (apparent 
+diameter of rotor exaggerated by perspective) . 
+
+
+===== PAGE 43 =====
+6 
+NACA TN 2474 
+PITCH COUNTER 
+41 
+THRUST STRAIN-GAGE SPIDER 
+BALL- BEARING SLIP JOINT AND 
+UNIVERSAL 
+--------
+DIFFERENTIAL 
+GEAR CAGE 
+TORQUE STRAIN-
+GAGE ARM 
+{/~l 
+I 
+~,....-lI: ___ __ J 
+PITCH-COUNTER MOTOR 
+MOTOR 
+Figure 2.- Schematic drawing of test stand . 
+
+
+===== PAGE 44 =====
+42 
+NACA TN 2474 
+,-
+24.oo-------1 
+,
+6.00 
+-1=:4.8511 
+250R 
++\.3 . . .OOR
+. 
+. 
+. 
+1!~/l~
+' 
+i 1.7~DJ 4-FT -DIAM . CONSTANT CHORD 
+f-4.63 
+. 
+I ' 
+36.00 - --------
+~ 6.00~ 
+-t:~l
+l 
+A 
+SE.CTION AA ~7 
+f.;~D 
+6 - FT-DIAM.CONSTANT CHORD 
+A 
+~4.63 
+~I·~------ 36.00 ----- ----
+r-: 6 .00 ~ 
+~.8~~~ 
+1 ~~~;~'~=:5~====~====~~B~=S=EC~
+' T=IO=N~B~B~
+.~:2 
++'I~~' 
+B ~~ t 
+, 1.75D 
+6 -FT -DIAM. TAPERED BLADE 
+~4.63 
+Figure 3.- Pr incipal blade dimensions . 
+
+
+===== PAGE 45 =====
+NACA TN 2474 
+12 
+10 
+8 
+6 
+eO.75R 
+4 
+2 
+o 
+-2 
+-4 
+l 
+....t:1 
+~ 
+~ 
+o 
+A 
+b. 
+rn 
+0 
+'0 
+~ 
+1000 
+~ fV 
+-<11 
+.02 
+b. 
+U 
+'" 
+---~ 
+~ 
+~ 
+A 
+, ~ o-e 
+~ ~ 
+b. \b. 
+0 
+J 
+0 00 
+Jm. \ 
+y iO 00 tb ~O~ 
+C 
+~=0.08- .. 
+:l 
+1\ 
+<Je 
+c 
+~ 
+~\ 
+O~( ~~ 
+\0 b.~ 
+cr 
+-~=004~\ 
+j 
+~ oe 
+. 
+0 
+0 
+o 
+~ p 
+C\ 
+1\ 
+~ 
+~ 
+o · )C 
+~ . D 0 
+~ 
+o~ 
+0 
+~ 
+.04 
+.06 
+V/flR 
+.08 
+43 
+;0.10 
+1\ 
+~A 
+0 
+1\ 
+, 
+~ 
+I 
+~ 
+.10 
+.12 
+Figure 4.- Blade angles for 6- foot- diameter rotor with constant- chord, 
+illltwisted blades . 
+
+
+===== PAGE 46 =====
+44 
+12 
+10 
+8 
+6 
+80 .75R 
+4 
+2 
+o 
+-2 
+-4 
+A 
+A 
+.... 
+-
+-
+A 
+~ 
+......... 
+~tl 
+w 
+~ 
+o 
+0 
+--...-LJ 
+o ~ C: 
+Be 
+o 
+.02 
+NACA TN 2474 
+A 
+... 
+AC T 
+b-
+A"'6 a,\_ <J
+e = 0 .1 0 
+0 
+..n......tib 
+~ 
+0 
+D
+h 
+0 
+. 'ar""' 
+\ 
+~ 
+[. 
+\ " 
+~T = 0.08 - 0\ \ 
+-.J 
+e 
+b \ 
+~ 
+..... ~ 
+\ 
+I\A 
+~ <: 
+0'»' ~ - ~ 
+= 0.04~ .\ 
+t-:J 
+~A 
+~0 
+ct 
+I~ 
+~ 
+~ \ 
+, 
+0\ 
+\ 
+o t:J 
+1\ 
+\ 
+~, 
+0\ 
+. (-
+1\ 
+~ 
+B{ 
+(; ~0 
+~ 
+~ 
+1 
+I 
+.04 
+.06 
+.08 
+.10 
+.12 
+V/,QR 
+Figure 5.- Blade angles f or 6- f oot- diameter r otor with 3/1 tapered blades . 
+
+
+===== PAGE 47 =====
+NACA TN 2474 
+12 
+10 
+8 
+6 
+eO.75R 
+4 
+2 
+o 
+-2 
+-4 
+-
+r-A-
+~..o::L 
+~ 
+{;) 
+~ 
+IA--~ 
+0 
+[;I 
+I:J 
+,.... 
+-0- I--..Q. 0 <:5'0" 0 
+45 
+~ 
+I 
+/ i\--¥.= 0.10 
+~ 
+~ 
+A 
+-
+...) ~ 
+~ 
+;J \ 
+-Ai 
+P 
+0 
+~{ =0.08-\ \ 
+\ 
+~ 
+<:: ~" 
+1\ 
+\~ 
+./ 
+~ :l 
+\ 
+0 0 
+~ 
+;T =0.04 .. 
+\ Iil 
+\ 
+f' 
+e 
+A 
+\ 
+n 
+1\ 
+'" 
+\ 
+\ 
+\~ 
+.......... 
+0 
+i~0 
+\ 0 
+I~ ~ 
+0" 0 
+~ 
+I", 0 
+o 
+.02 
+.04 
+.06 
+VI.Q.R 
+.08 
+.10 
+.12 
+Figure 6.- Blade angles for 6-foot- diameter rotor with blades having 
+12° linear twist. 
+
+
+===== PAGE 48 =====
+46 
+12 
+10 
+8 
+6 
+8 0 .75R 
+4 
+2 
+o 
+-2 
+-4 
+III 
+0 
+0 
+u 
+..0-
+\; 
+~ 
+o 
+. 02 
+... 
+A ~ 
+~ 
+~-~=O.IO 
+~ 
+A 
+o-e 
+0 
+~ ~ \ 
+----If 
+~ 
+I~ 
+fl 
+~! =0.08-\ 
+~ 
+1\ 
+\ 
+I~ 
+i'b 
+~ 
+~- ~=0.04 
+,r 
+e 
+\0 
+\ 
+\ p 
+i~ 
+~ 
+\ 
+~ 
+~ 
+\ 
+1\ 
+0 
+\ 
+~P 
+.04 . 
+.06 
+V/nR 
+\ 
+1\ 0\ ,,0 
+.08 
+NACA T 2474 
+\A 
+\ 
+\ 
+" 
+~ 
+\ 
+'f 
+1\ 
+0 
+~ 
+1 
+i 
+.10 
+.12 
+Figure 7.- Blade angles for 4- foot- diameter rotor with constant- chord, 
+untwisted blades . 
+ 
+.. -----
+...... 
+-----~ 
+j
+
+
+===== PAGE 49 =====
+NACA TN 2474 
+47 
+00048 
+-
+.0004 
+~o 
+\ 
+fA 
+~ 0 
+-- cr 
+=0.1 
+~ 
+e 
+2 
+.0003 
+B 
+I ~ -=' f!, 
+Ii-
+0 
+0 
+0 
+~Jj 
+L ~ 
+4 
+I:] 
+P 
+E , 
+c"b 
+.0002 
+e 
+\ l p • 
+16 
+~e :0.08_ 
+fp 
+1\ 
+.000 
+~ t...-
+In 
+~ 
+~o 
+Ii 
+A~1 
+(;) 
+..: 0 
+p 
+0 
+I"'O~ 
+CT 
+~~ \ 
+a ~ -
+O-e =0.04 . 
+.000 
+D~ 
+-
+~ 
+C 
+0 
+~ 
+0,\ 
+~ :\ 
+~o 
+0 
+O~ 
+""D 0 
+~ 
+~ 0 
+8 
+(.l 
+v 
+{:) 
+-.0000 
+~ 
+o 
+.02 
+.04 
+.06 
+V/.Q,R 
+.08 
+.10 
+.12 
+Figure 8.- Variation of torque coefficient for 6- foot- diameter rotor 
+with constant- chor d, untwisted blades . 
+
+
+===== PAGE 50 =====
+48 
+00048 
+.000 40 
+.. 
+-
+A 
+.. 
+.0003 2 
+.000 
+~.,I:;:l 
+r.. 
+24 
+~ 
+-
+I!l 
+~CQ 
+.000 16 
+! ~ 
+~ _Ot: 
+~ o 
+~ ~ 
+KKK 
+~~ 
+~ 
+0I.:J 
+CI 
+~@ I!TQ 
+0 
+-.00 008 
+o 
+.02 
+.04 
+NACA TN 2474 
+. 
+.A. 
+.A. 
+_\ \-- ;e .0.10 
+, 
+\ 
+_J:l. 
+~ 
+~ II 
+~ \ 
+Cr l-l 
+o-e :10.08 
+. \ 
+~ 
+\ \ 
+~: ~!=o.o~ 
+\ 
+~ 
+W' 
+~ 
+.06 
+V/SlR 
+"""I 
+i\ 
+\ 
+~ \ 
+"" 
+.08 
+\ 
+\ \ 
+jIq ~ 
+i 
+.10 
+.12 
+Figure 9.- Variation of torq '~e coefficient for 6- foot- diameter rotor with 
+3/1 tapered blades. 
+~--~------
+-
+
+
+===== PAGE 51 =====
+7 
+NACA TN 2474 
+.00048 
+.00040 
+~ 
+00032 
+.............. ~ 
+~ 
+............. ~ 
+, 
+-'" 
+-", 
+.00024 
+--
+c ............. I's-~ 
+.00016 
+.00008 
+I 
+0 
+\.;J 
+v 
+~ 
+_0 
+~ 
+"-
+vu \.;J 
+o 
+-.00008 
+o 
+.02. 
+.04 
+L 
+J V i- g.: =0.10 
+/ 
+J 
+_A-
+lA 
+) ~ J 
+~ ~ 1 J 
+~ 
+- .~ 
+O-e cO.08 
+II 
+~~ 
+~ 
+~_ ~T =0.0 
+1\ 
+e 
+~ 
+l! 
+\ 
+.06 
+V/flR 
+\ 
+0 
+1\ 
+I\A 
+\p 
+.-~ 
+~ 
+~ i\ 
+"'s ~ 
+\ 
+0 
+~ 
+'S. 
+v~ ~ 
+.08 
+.10 
+49 
+.12 
+Figure 10.- Variation of torque coefficient for 6-foot- diameter r otor 
+with blades having 120 linear twist. 
+
+
+===== PAGE 52 =====
+So 
+NACA TN 2474 
+.00048 
+.00040 
+A 
+.00032 
+~ 
+t-
+6. 
+~ f\---
+~ =0.10 
+4 
+-
+IA 
+e 
+A 
+\ 
+.00024 
+!~ 
+p 
+0 
+\ . 
+t---
+1:1 
+o 
+~ ~ 
+0 
+.00016 
+P 
+I- i 
+L\ \ 
+c 
+A ~ 
+~: =0.08\ 
+16~ 
+° 
+leT 1\ 
+1\6. 
+/ cr-=0.04 
+Il 
+r 
+I n 
+C -!)~ 
+e 
+.00008 
+0 
+°1 \ 
+[~ ~ 
+Aj ~~ 
+M 
+o 
+-.00008 
+o 
+.02 
+.04 
+\ 
+.OEP~ 
+.06 
+V/UR 
+\0 
+~ 
+~ 
+~ 
+~ ~ 
+,'" 
+.08 
+, 
+II 
+A 
+1 1 
+1\ 
+'Q 
+A 
+n 
+.10 
+.12 
+Figure 11.- Variation of torque coefficient for 4-foot- diameter rotor 
+with constant- chord) untwisted blades . 
+~- --~- -
+-~-
+-
+. --
+
+
+===== PAGE 53 =====
+NACA TN 2474 
+"-
+~ 
+iii 
+(:) 
+~~ 
+~ 
+A e ~ 
+o 
+' 
+'
+. ~ 
+"t rf 
+Cj../. 
+p 
+l 
+0 
+J..Q 
+~./, 
+VA 
+0 
+(.) 
+( 
+./ 10 
+~ 
+I- --
+) 
+V 
+L 
+~ 
+/ 
+--
+2.8 
+24 
+2.0 
+51 
+32 
+A 
+A 
+A 
+2.8 
+0 
+A 
+~ 
+0 
+A It. 
+t-.. 
+~ I~ 
+1-
+~ 
+0 
+"0 
+c:J 
+0 
+\,..10 
+2.4 
+A 
+0 
+I.;) 
+~ 
+.. 
+~ 
+A 
+'" 
+Aoja~ 
+~ 
+It. 
+G 
+1(.) 
+2.0 
+~ 
+0 ~ 
+1\J6 
+-
+A 
+(.) 
+~-~ 
+~'~ 
+It. 
+. 9 
+~ 0 <;, 
+0 
+~ 
+1.6 
+L. --IIIDEALII AUTOROTATION LINE 
+" 
+~ 
+Ik. 
+I 
+~ 
+2 
+~ 
+SIMPLE MOMENTUM THEORY 
+o - VALUES FROM THRUST 
+11- VALUES FROM TORQUE 
+~ 
+I 
+I 
+1.6 
+.8 
+8 
+. 
+o 
+o 
+Figure 12 .- Variation of nondimensional induced velocity for 6- foot-
+diameter rotor with constant- chord, untwisted blades . 
+• 
+
+
+===== PAGE 54 =====
+52 
+'\ 
+I~ 
+:1 
+'l10 
+.. 
+Q;) 
+A A) r 0 
+(:') 
+~ 
+0 
+~ 
+PI:) 
+~/ 
+\:.I 
+Vo~ 
+0 
+) 
+1---
+/ 
+0 V 
+(:) 
+./ 
+~ 
+V 
+~ 
+2.8 
+2.4 
+2.0 
+NACA TN 2474 
+32 
+\:J 
+t 
+2.8 
+0 
+j 
+~ 
+0""0;: 
+~ 
+• 
+'"' 
+I 
+• 
+(~~ 
+~ 
+~<:lI m 
+~ (:) 
+~ 
+2 .4 
+..,,~,. 
+\.; 
+0 ~ 
+'£ 
+0~ b 
+,C 0 
+r"\ 
+/ 
+o ( ~ 
+~~ 
+1\:.1 
+~( 
+00 
+6 
+I 
+I 
+, 
+~ 
+L~ "IDEAL" AUTOROTATlON LINE d jL\~ • 
+0 
+2.0 
+A· I 
+.6 
+I 
+0 ~ 
+G 
+r> 
+~I 
+D 
+2 
+SIMPLE MOMENTUM THEORY 
+, 
+.8 
+I 
+0- VALUES FROM THRUST 
+b. -
+VALUES FROM 'TORQUE 
+I 
+~f'-Ctv 7 
+I 
+I 
+1.6 
+Az 
+12 
+.8 
+.4 
+o 
+o 
+Figur e 13.- Variation of nondimensional induced velocity for 6- foot-
+diameter rotor with 3/1 tapered blades . 
+
+
+===== PAGE 55 =====
+I 
+-
+NACA TN 2474 
+53 
+a 
+t. 
+A 
+0 
+~ 
+I 
+l-
+3.2 
+i> 
+'is,, 
+~ A~ 
+ifJ0 ( 
+0 
+~~ 
+AA 
+2.8 
+Acf. 
+~ 
+\ 
+A 
+0 
+<:> 
+/ 
+~ ~~ 
+o 
+. 
+~ 
+2.4 
+~ / 
+)~ -
+~ 
+~ 
+'V 
+A 
+0 
+t. 
+!~ 
+Or.> 
+to 
+0 / 
+/~ 
+~ 
+A 
+/ 
+" 
+~ 
+I 
+At. 
+L -"IDEAL" AUTOROTATION LINE 
+0 
+O~ 
+2.0 
+A' I 
+.6 
+A /A 
+~ 
+0 
+..... 
+II 
+A ~ 
+0 
+0 
+~~ 
+.2 
+V 
+..., 
+/ 
+.. -- SIMPLE MOMENTUM THEORY 
+0 
+0 
+/ 
+p 
+./ 
+~ 
+V 
+L..---
+o -
+VALUES FROM THRUST 
+A- VALUES FROM TORQUE 
+~ 
+I 
+I 
+28 
+24 
+20 
+1.6 
+1.2 
+B 
+Figure 14.- Variation of nondimensional induced velocity for 6-foot-
+diameter rotor with blades having 120 linear twist . 
+8 
+o 
+o 
+
+
+===== PAGE 56 =====
+54 
+0 Ii v: 
+V 
+<:> 
+0 
+~ 
+./ 
+~ 
+./" 
+---
+2 .8 
+24 
+NACA TN 2474 
+. 
+3.2 
+A 
+\ 
+2.8 
+A 
+.... 
+/)./' 
+~ 
+A 
+A 
+A !> 
+f.l. 
+.......... 
+1: ~~ 
+A 
+tA 
+A 
+Ih~V 
+8~ ~ 
+~ 
+. 0 
+lI-
+0 
+r'. 
+24 
+/). 
+.~ 
+~ 
+°L 
+"' ~ 
+>f~ 
+\:I 
+~'V 
+~( 
+0 
+° 
+~ 
+P 
+2.0 
+A 
+<i1 ~ 
+.. 
+0" 
+.ej~ 0" 
+0 
+A 
+" 
+c:; 
+V. 
+// " '" 
+0~ 
+I 
+A 
+0 
+'" 
+/ 
+0 
+Iii 
+...!'IDEALII AUTOROTATION LINE 
+~ 
+<j ( ~ 
+II 
+(3 
+~P' 
+~ 
+.6 
+.2 
+~ 
+j - -
+SIMPLE MOMENTUM THEORY' 
+8 
+V 
+2.0 
+1.6 
+0- VALUES FROM THRUST 
+A- VALUES FROM TORQUE 
+I 
+~ 
+.l. 
+I 
+Az 1.2 
+.8 
+.4 
+o 
+o 
+Figure 15.- Variation of nondimensional induced velocity for 4- foot-
+diameter rotor with constant-chord, untwisted blades . 
+L~ 
+__ ---
+- .. 
+-- .~--
+- I
+
+
+===== PAGE 57 =====
+I·~----
+- -
+I 
+I, 
+I 
+-
+NACA TN 2474 
+55 
+L 
+v 
+; 
+.......-
+2,4 
+I 
+I 
+I 
+I 
+I 
+I 
+3 
+I~ -SIMPLE IMOMENTUM THEORY 
+/ 
+I 
+/ 
+,-VALUES FROM DATA ON 6-FOOT 
+1_ \ CONSTANT-CHORD, UNTWISTED BLADES _ 
+/ / 
+,>------.." 
+~ 
+. *LL-SCALE THRUST VALUES 
+I 
+/ 
+FROM REFERENCE 2 
+'jr:x~ _1._" 
+// 
+-", 
+~ ., 
+2 
+" 
+,,,", 
+-
+II 
+~ 
+V--
+"\: 
+~ 
+Q 
+" 
+/1 
+/ 
+""', ........ 
+~ ~ 
+,\. , 
+/ 
+If' 
+I 
+/ 
+,IV 
+/ 
+2.0 
+~ 
+V 
+~ 
+, 
+"'" 
+~ 
+" 
+V 
+", 
+''''"' 
+r--.. " 
+V'--- GLAUERT'S EMPIRICAL 
+............ , ~ 
+I 
+CURVE FROM REFERENCE I 
+I 
+I 
+I 
+I 
+I 
+I 
+0- AUTOROTATION POINTS FROM REFERENCE 
+3 BASED ON A NET POWER REQU1REMENT 
+OF 30 HP FOR PROFILE DRAG AND 
+COUNTER ,1ORQUE ROTOR 
+C - HOVERING PO'NT FROM REFERENCE _ 
+4, UNCORRECTED FOR BLADE TWIST 
+1.6 
+1.2 
+~z 
+.8 
+1 
+I 
+I 
+I 
+~ 
+I 
+I 
+.4 
+o 
+o 
+Figure 16.- Comparison of data on Ai 
+against Az coordinates. 
+J
+
+
+===== PAGE 58 =====
+56 
+5 
+4 
+3 
+Il f 
+2 
+/ 
+y 
+I 
+/ 
+°L f/\ 
+/ 
+~~ 
+/ 
+V 
+K / 
+'X ~ 
+i'-... 
+/ \ 
+....... 
+\\ 
+\ 
+\ 
+I 
+1'.1 
+1\ 
+\ 
+\ 
+\ 
+\ 
+\ 
+\ ~ \ 
+~ 
+~ 
+, 
+~ 
+\ 
+1\ 
+\ 
+NACA TN 2474 
+/ 
+/ 
+./ 
+~V 
+7 
+--~"-
+/ I - SIMPLE MOMENTUM THEORY 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+/ 
+'- - GLAUERT'S EMPIRICAL CURVE 
+/ 
+FROM REFERENCE I 
+I 1 
+v 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+o-AUTOROTATION POINTS FROM REFERENCE 
+-
+:3 BASED ON A NET POWER REQUIREMENT 
+OF 30 HP FOR PROFILE DRAG AND 
+COUNTER TORQUE ROTOR 
+a-HOVERING POINT FROM REFERENCE 4, 
+UNCORRECTED 
+FOR BLADE TWIST 
+~ 
+---
+- FULL-SCALE THRUST VALUES 
+FROM REFERENCE 2 
+I I 
+J 
+I 
+I 
+I 
+I 
+J 
+I-- VALUES FROM DATA ON 6- FOOT 
+CONSTANT - CHORD, UNTWI~TED BLADES 
+~\ 
+I 
+I I I I 
+\ 
+SIMPLE MOMENTUM 
+\ 
+THEORY- ,I 
+/ 
+\ 
+\ 
+V 
+\ 
+L/ 
+~v 
+",\ 
+" " 
+" 
+I\' 
+/ 
+~ /' 
+~-
+~ ~ 
+V 
+r-- ....... 
+~ / 
+-.... 
+~ 
+~ 
+2 
+IIF 
+I 
+I 
+3 
+4 
+Figure 17.- Comparison of data on l/f against l/F coordinates . 
+-
+. -
+--
+- ---
+
+
+===== PAGE 59 =====
+8 
+NACA TN 2474 
+---
+-
+--...--- ---.... 
+WAKE BOUNDARY 
+FROM TUFTS 
+SMOKE NOZZLES 
+57 
+ROlOR 
+I t 
+Figure 18 .- Flow pattern at AZ = 0 
+(hovering) for 4- foot- diameter 
+rotor with constant- chord, untwisted blades . 
+
+
+===== PAGE 60 =====
+S8 
+) 
+TURBULENCE~
+r 
+AND 
+WAKE BOUNDARY 
+0 
+FROM TlETSy'~ 
+• 
+A~ '-, Jj 
+/C~ 
+NACA TN 2474 
+ROTOR 
+I 
+~ 
+I 
+Figure 19.- Flow pattern at AZ ~ 0.3 for 4- foot- diameter rotor with 
+constant- chord, untwisted blades . 
+
+
+===== PAGE 61 =====
+NACA TN 2474 
+59 
+/ 
+/ 
+", 
+117 
+ROTOR 
+( Ii 
+\ \===~~==========j 
+\ ~-, 
+I 
+1\) 
+/ 
+/1/1 
+I // 
+t 
+/ /' 
+---)( 
+/ //--
+. 
+/?-_- --"\ 
+// / 
+\ 
+k ~-\ 
+/ 
+Y VORTEX CENTER, I//<--- -- " ~ 
+Ilf /.' TURBULENCE -:-if 
+~ \ 
+'} I 
+AND 
+~ 
+~ (\ 
+/ 
+U 
+WAKE BOUNDARY /Y 
+-:- - : 
+/ 
+FROM TUFTS ----t ~. -:::- - - )j 
+( 
+r~ 
+--
+I 
+/ 
+)
+\---
+--
+- -)! 
+~~ 
+/~~-
+---"'( 
+Figure 20. - Flow pattern at AZ ~ 1 . 0 for 4- foot- diameter rotor with 
+, 
+constant-chord, untwisted blades . 
+
+
+===== PAGE 62 =====
+60 
+NACA TN 2474 
+I 
+I 
+I 
+I 
+J 
+I 
+/ 
+/ 
+/ 
+/ 
+/ // 
+/ / 
+. t 
+ROlOR 
+Figure 21.- Flow pattern at AZ ~ 1.35 for 4-f oot - diameter rotor with 
+constant- chord, untwisted blades . 
+--~-
+-~ 
+. . ~-
+. I
+j
+
+
+===== PAGE 63 =====
+• 
+NACA TN 2474 
+\ 
+~SMOKE NOZZLES 
++. , .. ~,) '\ 
+\ 
+~¢ ~
+, 
+J 
+~~: .. ~ 
+\ ROTOR· 
+1 
+r' 
+_____ ~ 
+/ ~>--
+~-==-~ 
+, ./" , 
+\ 
+\ 
+'~) ), '"' 
+I \'~ 
+________ 
+I~' 
+I~ 
+'\ 
+__ 
+I 
+'
+_ 1\ \ '" 
+\ 
+'J ! }/' ~ (,',\ t ,) 
+\ 
+\ J 
+I LJ \ I 
+\ \ 
+'_ 
+1
+..,) 
+~ 
+v 
+TURBULENCE 
+\ 
+~ 
+'" 
+\ 
+'" 
+1 
+~ 
+\ 
+i 
+\ 
+I 
+Figure 22 .- Flow pattern at AZ ~ 1.7 for 4-foot- diameter rotor with 
+constant -chord, untwisted blades . 
+61 
+--~~--
+
+
+===== PAGE 64 =====
+62 
++ 
+t 
+\ 
+I 
+\ 
+~APPROXIMATE WAKE BOUNDARY 
+Y 
+FROM TUFTS 
+\ 
+\ 
+\ 
++ \\' \ 
+\ 
+\ 
+SMOKE NOZZLES 
+ROTOR 
+NACA TN 2474 
+Figure 23 .- Flow pattern at Az ~ 2.0 for 4- foot- diameter r otor with 
+constant- chord, untwisted blades . 
+• 
+
+
+===== PAGE 65 =====
+r 
+ 
+ 
+I -
+I 
+I 
+I 
+• 
+NACA TN 2474 
+63 
+Figure 24.- Photograph of tufts and smoke filaments at AZ 
+0.3. 
+
+
+===== PAGE 66 =====
+64 
+.007 
+.006 
+t-
+0 
+.005 f--
+6. 
+.004 
+.003 
+.002 
+.001 
+o 
+~ 
+o 
+NACA TN 2474 
+L 
+/ 
+HOVERING DATA WITH 
+L 
+TUNNEL BLOCKED 
+Vo 
+c 
+HOVERING DATA FROM 
+VERTICAL- DESCENT TESTS 
+/ 
+0 
+A 
+v-
+I 
+p 
+~- -THEORY 
+;/ 
+V& 
+2 
+/ 
+l;60(P 
+() 
+V 
+<V 
+0 
+/ 
+'60 
+4 
+6 
+80 .75R 
+~ 
+1 
+8 
+10 
+12 
+Figure 25.- Compar ison of hovering dat a f or 6- f oot - diameter r otor with 
+const ant - chord, untwist ed bl ades . 
+• 
+
+
+===== PAGE 67 =====
+• 
+• 
+.. 
+NACA TN 2474 
+65 
+.006 
+_ 
+0
+1 HOV~RlNG I DAT~ WIT~ 
+/ 
+.005 
+TUNNEL BLOCKED 
+~ 
+_ 
+b. HOVERING DATA FROM 
+VERTICAL- DESCENT TESTS 
+/IJ 
+/ 
+.004 
+~ V 
+V 
+.003 
+'/- --THEORY 
+~ 
+.002 
+L 
+/c 
+p~ 
+.001 
+/ 
+V 
+JY 
+,./ V 
+~ 
+I 
+o o 
+2 
+4 
+6 
+80 .75R 
+8 
+10 
+12 
+Fi gure 26. - Comparison of hover i ng dat a f or 6-foot- diameter r otor with 
+3/1 taper ed blades . 
+
+
+===== PAGE 68 =====
+66 
+NACA TN 2474 
+.006 
+I 
+I 
+I 
+I 
+I 
+/ 
+1-- 0 HOVERING DATA WITH 
+TUNNEL BLOCKED 
+V 
+o 0 
+.005 I--A HOVERING DATA FROM 
+j 
+VERTICAL-DESCENT TESTS' 
+/ c 
+.0 04 
+~ 
+J 
+V 
+V 
+/ t-- --T HEORY 
+/V 
+.0 02 
+V 
+~ 
+,001 
+VA 
+/ 
+o ~ v
+c 
+~ 
+I 
+I 
+o 
+2 
+4 
+6 
+8 
+10 
+12 
+90 ,75R 
+Figure 27 .- Compar ison of hovering data f or 4- f oot - di amet er r otor wi th 
+const ant-chor d, untwisted blades . 
+• 
+.. 
+_J
+
+
+===== PAGE 69 =====
+• 
+NACA TN 2474 
+.0005 
+I 
+I 
+I 
+I 
+I 
+'- o HOVERING DATA WITH 
+TUNNEL BLOCKED 
+.0004 -
+A HOVERING DATA FROM 
+VERTICAL- DESCENT TESTS 
+.0003 
+.0002 
+V 
+.0001 
+f1 
+./ ~ 
+~ 
+V 
+V 
+-
+o .-~ 
+o 
+.001 
+.002 
+.003 
+CT 
+67 
+~ / 
+L 
+~ 
+0 
+L"\ 
+~ A-THEORY 
+£' 
+0 
+~ 
+.004 
+.005 
+.006 
+Figure 28 .- Comparison of hovering data for 6- foot- diameter r otor with 
+const ant-chor d, untwisted blades . 
+
+
+===== PAGE 70 =====
+68 
+NACA TN 2474 
+.0005 
+o I HOV~RIN~ 
+I 
+I 
+f-
+DATA WITH 
+TUNNEL BLOCKED 
+.0004 
+e--
+b. HOVERING DATA FROM 
+V 
+VERTICAL - DESC ENT TESTS 
+V 
+.0003 
+V 
+~-THEORY 
+.0002 
+V 
+0 p 
+V 
+.000 1 
+/ ~ 
+L V 
+o 
+l--8 V 
+~ 
+al-
+I 
+I 
+o 
+.001 
+.002 
+.004 
+.005 
+.006 
+Figure 29 .- Comparison of hovering data for 6- foot- diameter rotor with 
+3/1 tapered blades . 
+• 
+
+
+===== PAGE 71 =====
+• 
+.. 
+NACA TN 2474 
+.0005 
+I 
+I 
+I 
+I 
+I 
+- ° HOVERING DATA WITH 
+.0004 
+TUNNEL BLOCKED 
+L 
+r- A HOVERING DATA FROM 
+VERTICAL - DESCENT TESTS 
+L 
+.0003 
+.0002 
+/ 
+THEORY-~ 
+A ° 
+vJ° 
+V 
+I, 
+.0001 
+L1 V 
+0 
+V 
+V 
+o 
+V ~ 
+~ 
+~ 
+~ 
+j 
+o 
+.001 
+.002 
+.004 . 
+.005 
+.006 
+Figure 30.- Comparison of hovering data for 4-foot- diameter rotor with 
+constant-chord, untwisted blades . 
+
+
+===== PAGE 72 =====
+70 
+NACA TN 2474 
+_ -
+-
+ACTUAlOR DISK 
+WAKE 
+/ 
+Figure 31. - Schematic flow pattern for an actuator disk at small rate 
+of descent in perfect fluid. 
+• 
+• 
+.. 
+J
+
+
+===== PAGE 73 =====
+r 
+NACA TN 2474 
+71 
+/ ROTOR 
+PLANE 
+/ 
+, , 
+"-
+.... POSITION AT TIME t. 
+HOVERING WAKE BOUNDARY - -
+VORTEX RING -
+-
+- --
+AT t.+t1t 
+--1/POSITION AT t . + 311 t 
+Figure 32. - Schematic sketch of transition from hovering to "vortex 
+ring" t ype flow pattern. 
+(Spread of wake is exaggerated. ) 
+
+
+===== PAGE 74 =====
+72 
+NACA TN 2474 
+TOTAL HEAD = Po 
+PRESSURE RISE = t pV2 
+~r---
+~--t)~ 
+PLANE OF WIND-
+TUNNEL FAN ---~ 
+MODEL ROTOR / 
+Figure 33.- Hypothetical frictionless , open- return wind . tunnel . 
+NACA-Langley - 10- 15-51 - 1000 
+• 

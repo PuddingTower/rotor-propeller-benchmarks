@@ -1,0 +1,11 @@
+Index,Case_Directory,Rotor_Propeller,Diameter_m,Blades,Regime,Disk_Loading_kg_m2,Tip_Mach,Measured_Variables,Geometry_Provided,Official_Document,Data_Provenance
+01,01_微型无人机旋翼_DJI9443,DJI 9443 (大疆微型旋翼),0.239,2,纯悬停 (Hover),7~20,0.13~0.22,"RPM, Thrust, Torque, Power, CT, CQ, CP, FM",点云+展向弦长/扭转分布+10截面翼型,NASA TM-2016-219647,NASA Langley & BYU FLOW Lab
+02,02_小型航模与无人机螺旋桨_APC10x7,APC 10x7 (Thin Electric & SF),0.254,2,静态悬停 + 纯轴向进流,5~25,0.15~0.28,"J, RPM, Thrust, Torque, Power, CT, CP, CQ, eta",UIUC 激光几何测绘 + 翼型坐标,AIAA 2011-1255,UIUC Propeller DB (Selig et al.)
+03,03_微型孤立旋翼_MartinTung_10in,Martin-Tung 10in 微型旋翼,0.254,2,纯悬停 (Hover),8~35,0.10~0.20,"RPM, Collective, Thrust, Torque, Power, FM",矩形平直无扭转 NACA 0012 参数,NASA TM-2004-212852,NASA Ames & Army AFDD
+04,04_轴向推进四叶螺旋桨_Beaver,Beaver 4-Blade 四叶螺旋桨,0.238,4,纯轴向风洞推进 (Axial),15~40,0.20~0.35,"J, RPM, Thrust, Torque, Power, PIV 涡核轨迹",4叶CAD参数、展向弦长扭转分布,AIAA Journal 2019,TU Delft (Sinnige et al.)
+05,05_经典悬停模型旋翼_Caradonna_Tung,Caradonna & Tung 经典悬停基准,2.286,2,纯悬停 (Hover),12~45,0.44~0.88,"RPM, Collective, CT, CQ, CP, FM, 5截面全周Cp, 尖端涡",平直矩形 NACA 0012 实体点云,NASA TM-81232 (1981),NASA Ames / Army (基准之王)
+06,06_现代先进悬停旋翼_NASA_HVAB,NASA/Army HVAB 现代高载荷悬停,3.414,4,纯悬停 (Hover),25~65,0.50~0.68,"137点性能表(T,Q,P,FM), 脉动气动压强, PIV尖涡",官方 IGES 实体模型 + 10截面翼型,NASA TM-2020-5002153,NASA Ames HVAB Release v2 (2024)
+07,07_全尺寸悬停旋翼_Harrington_25ft,Harrington 25ft 单旋翼与共轴双旋翼,7.620,2 / 4,纯悬停 (Hover),10~40,0.25~0.35,"RPM, Collective, Thrust, Torque, Power, FM",Rotor 1(矩形) & Rotor 2(尖削)实体参数,NACA TN 2318 (1951),NACA Langley 全尺寸风洞台架
+08,08_全尺寸重型悬停旋翼_UH60A_Blackhawk,UH-60A 黑鹰全尺寸旋翼 (OARF),16.360,4,纯悬停 (Hover),35~65,0.65,"Collective, CT/sigma, CP/sigma, Torque, Power, 挥舞角",SC1095/SC1094R8 双翼型+后掠下反尖部,NASA TM-4172,NASA Ames OARF 室外悬停台架
+09,09_轴向垂直流场基准_TN2474_CastlesGray,Castles & Gray 轴向垂直流场基准,1.829,2,垂直下降 / 悬停 / 涡环态 (VRS),8~25,0.20~0.30,"空间诱导速度矢量场 (u, v, w), 涡流线分布",NACA 0015 平直矩形叶片实体参数,NACA TN 2474 (1951),NACA 轴向流场经典基准
+10,10_UIUC小型螺旋桨大型数据库_精选集,UIUC 140+ 现货螺旋桨大数据库,0.15~0.46,2 / 3,纯静态悬停 + 纯轴向进流,4~30,0.10~0.30,140+款桨型静态推力/扭矩/功率/FM汇总表,各主要型号标准外形几何,UIUC Technical Reports,UIUC Applied Aero Group

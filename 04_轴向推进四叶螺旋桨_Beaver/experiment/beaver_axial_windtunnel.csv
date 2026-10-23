@@ -1,0 +1,59 @@
+# Beaver Propeller Forward Flight Experimental Data
+# ===========================================================================
+# STATUS: DATA NOT FOUND - REQUIRES MANUAL DIGITIZATION
+# ===========================================================================
+#
+# The Sinnige thesis (TU Delft, 2018) was downloaded from:
+#   https://doi.org/10.4233/uuid:214e1e9a-c53e-47c7-a12c-b1eb3ec8293b
+#   Local copy: /tmp/sinnige_thesis.pdf (269 pages)
+#
+# FINDING: The Sinnige thesis is titled "Aerodynamic and Aeroacoustic
+# Interaction Effects for Tip-Mounted Propellers: An Experimental Study"
+# (Sinnige, T., 2018, TU Delft).
+#
+# This thesis does NOT contain "Beaver propeller" data. Instead it covers:
+#   - PROWIM (Propeller-Wing Interaction Model) test campaigns
+#   - Two single-rotating propeller models installed near wing/pylon models
+#   - Propeller-wing and propeller-pylon interaction effects
+#   - Aerodynamic and aeroacoustic measurements
+#   - Tests in open-jet and closed-section low-speed wind tunnels
+#
+# The PDF is also partially damaged (xref table errors) which prevented
+# full text extraction from many pages.
+#
+# ===========================================================================
+# POSSIBLE BEAVER PROPELLER SOURCES (require manual search)
+# ===========================================================================
+#
+# The "Beaver propeller" may refer to:
+# 1. De Havilland Canada DHC-2 Beaver propeller test data
+# 2. A specific model propeller used in academic research
+# 3. A propeller tested at a specific wind tunnel facility
+#
+# Suggested search paths:
+# - NASA NTRS: search for "Beaver propeller" or "DHC-2 propeller performance"
+# - AIAA Arc: search for propeller test data with "Beaver" designation
+# - UIUC Propeller Database: check for Beaver-type propellers
+# - Contact TU Delft Aerospace Engineering for thesis data supplements
+#
+# ===========================================================================
+# PLACEHOLDER FORMAT (for when data is digitized)
+# ===========================================================================
+# Expected format for forward-flight propeller data:
+#
+# J,CT_exp,CP_exp,eta_exp
+# (advance ratio, thrust coeff, power coeff, efficiency)
+#
+# Where:
+#   J  = V_inf / (n * D)          advance ratio
+#   CT = T / (rho * n^2 * D^4)    thrust coefficient
+#   CP = P / (rho * n^3 * D^5)    power coefficient
+#   eta = J * CT / (2*pi * CQ)    propulsive efficiency
+#   CQ = Q / (rho * n^2 * D^5)    torque coefficient
+#
+# ===========================================================================
+# REFERENCE
+# ===========================================================================
+# Sinnige, T. (2018). Aerodynamic and Aeroacoustic Interaction Effects for
+# Tip-Mounted Propellers: An Experimental Study. PhD thesis, Delft University
+# of Technology. https://doi.org/10.4233/uuid:214e1e9a-c53e-47c7-a12c-b1eb3ec8293b

@@ -1,0 +1,9 @@
+# GitHub hard limit is 100 MB per file. These two upstream NASA/HPW archives
+# exceed it and are excluded; see LARGE_FILES.md for official download URLs.
+06_现代先进悬停旋翼_NASA_HVAB/raw_nasa_release/06_piv/VectorFielddata.zip
+06_现代先进悬停旋翼_NASA_HVAB/raw_nasa_release/08_workshop_HPW/fileshare_geometry/HVAB_Geometry/HVAB_UndeformedSurfAndVol.tar
+
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
